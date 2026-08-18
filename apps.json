@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "0.3.3",
+          "buildVersion": "260818011535",
+          "date": "2026-08-18",
+          "localizedDescription": "Fix the SwiftMath table-script crash, make future math typesetter traps self-healing, and harden exact macOS window restoration across updates.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818011535/Base-0.3.3-260818011535.ipa",
+          "size": 12100128,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.3",
           "buildVersion": "260818000611",
           "date": "2026-08-18",
           "localizedDescription": "Launchable stable macOS updates, mathtools small-matrix rendering, and the public SideStore feed.",
