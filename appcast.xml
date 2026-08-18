@@ -1,5 +1,4 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Base</title>
         <item>
@@ -24,7 +23,7 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description sparkle:format="plain-text"><![CDATA[Fix the SwiftMath table-script crash, make future math typesetter traps self-healing, and harden exact macOS window restoration across updates.
 ]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818025315/Base-0.3.3-260818011535-macOS.zip" length="11292569" type="application/octet-stream" sparkle:edSignature="rFLwOS8yzn+1nAN5ro8pabFJfQd9LGgSqUicNqkKJEwg0pbldkhQEDWu8p0fG60bTEkX8TTIkqpfXdDa6eMkAw=="/>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818011535/Base-0.3.3-260818011535-macOS.zip" length="11292569" type="application/octet-stream" sparkle:edSignature="rFLwOS8yzn+1nAN5ro8pabFJfQd9LGgSqUicNqkKJEwg0pbldkhQEDWu8p0fG60bTEkX8TTIkqpfXdDa6eMkAw=="/>
         </item>
         <item>
             <title>0.3.3</title>
@@ -36,7 +35,7 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description sparkle:format="plain-text"><![CDATA[Launchable stable macOS updates, mathtools small-matrix rendering, and the public SideStore feed.
 ]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818025315/Base-0.3.3-260818000611-macOS.zip" length="11214798" type="application/octet-stream" sparkle:edSignature="UM6kDEsWhv/38sauJ05OuWlUqmjDWKA3wx1fz1/vSKhaCpghqNkYZg0XzSlPdzbILhXMQC+76fwHeBpd3hffDA=="/>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818000611/Base-0.3.3-260818000611-macOS.zip" length="11214798" type="application/octet-stream" sparkle:edSignature="UM6kDEsWhv/38sauJ05OuWlUqmjDWKA3wx1fz1/vSKhaCpghqNkYZg0XzSlPdzbILhXMQC+76fwHeBpd3hffDA=="/>
         </item>
         <item>
             <title>0.3.3</title>
@@ -48,7 +47,7 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description sparkle:format="plain-text"><![CDATA[Signed automatic macOS updates and a public SideStore feed, backed by immutable release artifacts.
 ]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818025315/Base-0.3.3-260817234450-macOS.zip" length="11234011" type="application/octet-stream" sparkle:edSignature="QdP08dJfXvsEdKfJPh5UfaVIzM3yRtwtGL6A2oZeFXdm+7kR5EJjE2B15VbYLFoXyseMx9wIx3u/nxRF3URpCA=="/>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260817234450/Base-0.3.3-260817234450-macOS.zip" length="11234011" type="application/octet-stream" sparkle:edSignature="QdP08dJfXvsEdKfJPh5UfaVIzM3yRtwtGL6A2oZeFXdm+7kR5EJjE2B15VbYLFoXyseMx9wIx3u/nxRF3URpCA=="/>
         </item>
     </channel>
 </rss>
