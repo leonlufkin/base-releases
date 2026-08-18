@@ -1,0 +1,38 @@
+{
+  "name": "Base",
+  "subtitle": "Native access to your Riad agents.",
+  "description": "Signed, immutable iPhone and iPad releases of Base.",
+  "iconURL": "https://raw.githubusercontent.com/leonlufkin/base-releases/main/Base.png",
+  "website": "https://github.com/leonlufkin/base-releases",
+  "tintColor": "#355C7D",
+  "apps": [
+    {
+      "name": "Base",
+      "bundleIdentifier": "com.leonlufkin.base",
+      "developerName": "Leon Lufkin",
+      "subtitle": "Talk to your agents from iPhone and iPad.",
+      "localizedDescription": "Base is the native Riad client for following sessions, dictating prompts, and sending messages to your agents.",
+      "iconURL": "https://raw.githubusercontent.com/leonlufkin/base-releases/main/Base.png",
+      "tintColor": "#355C7D",
+      "category": "developer",
+      "versions": [
+        {
+          "version": "0.3.3",
+          "buildVersion": "260817234450",
+          "date": "2026-08-17",
+          "localizedDescription": "Signed automatic macOS updates and a public SideStore feed, backed by immutable release artifacts.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260817234450/Base-0.3.3-260817234450.ipa",
+          "size": 12096148,
+          "minOSVersion": "18.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Base transcribes your voice on-device to message your agents."
+        }
+      }
+    }
+  ],
+  "news": []
+}
