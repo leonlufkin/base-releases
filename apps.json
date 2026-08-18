@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "0.3.3",
+          "buildVersion": "260818000611",
+          "date": "2026-08-18",
+          "localizedDescription": "Launchable stable macOS updates, mathtools small-matrix rendering, and the public SideStore feed.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818000611/Base-0.3.3-260818000611.ipa",
+          "size": 12096066,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.3",
           "buildVersion": "260817234450",
           "date": "2026-08-17",
           "localizedDescription": "Signed automatic macOS updates and a public SideStore feed, backed by immutable release artifacts.",

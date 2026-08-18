@@ -4,6 +4,18 @@
         <title>Base</title>
         <item>
             <title>0.3.3</title>
+            <pubDate>Tue, 18 Aug 2026 00:07:36 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260818000611</link>
+            <sparkle:version>260818000611</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Launchable stable macOS updates, mathtools small-matrix rendering, and the public SideStore feed.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818000611/Base-0.3.3-260818000611-macOS.zip" length="11214798" type="application/octet-stream" sparkle:edSignature="UM6kDEsWhv/38sauJ05OuWlUqmjDWKA3wx1fz1/vSKhaCpghqNkYZg0XzSlPdzbILhXMQC+76fwHeBpd3hffDA=="/>
+        </item>
+        <item>
+            <title>0.3.3</title>
             <pubDate>Mon, 17 Aug 2026 23:46:13 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260817234450</link>
             <sparkle:version>260817234450</sparkle:version>
@@ -12,7 +24,7 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description sparkle:format="plain-text"><![CDATA[Signed automatic macOS updates and a public SideStore feed, backed by immutable release artifacts.
 ]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260817234450/Base-0.3.3-260817234450-macOS.zip" length="11234011" type="application/octet-stream" sparkle:edSignature="QdP08dJfXvsEdKfJPh5UfaVIzM3yRtwtGL6A2oZeFXdm+7kR5EJjE2B15VbYLFoXyseMx9wIx3u/nxRF3URpCA=="/>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818000611/Base-0.3.3-260817234450-macOS.zip" length="11234011" type="application/octet-stream" sparkle:edSignature="QdP08dJfXvsEdKfJPh5UfaVIzM3yRtwtGL6A2oZeFXdm+7kR5EJjE2B15VbYLFoXyseMx9wIx3u/nxRF3URpCA=="/>
         </item>
     </channel>
 </rss>
