@@ -3,6 +3,18 @@
         <title>Base</title>
         <item>
             <title>0.3.3</title>
+            <pubDate>Tue, 18 Aug 2026 23:16:28 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260818224818</link>
+            <sparkle:version>260818224818</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Super Dark appearance for macOS and iOS: true-black surfaces, white text, green selected rows, stronger separators, and a VS Code High Contrast-style accent. System appearance remains the default; the new mode is persisted from Settings.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818224818/Base-0.3.3-260818224818-macOS.zip" length="11381245" type="application/octet-stream" sparkle:edSignature="2A2qtsoijDRnEAW9FikCeDuIrDA9sRcSkeX1kAujmNEAsKomwdbdwYGpaKLTsiyngBY7nRw3ZcjUtTq2LWmWBw=="/>
+        </item>
+        <item>
+            <title>0.3.3</title>
             <pubDate>Tue, 18 Aug 2026 02:54:47 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260818025315</link>
             <sparkle:version>260818025315</sparkle:version>

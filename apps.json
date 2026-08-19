@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "0.3.3",
+          "buildVersion": "260818224818",
+          "date": "2026-08-18",
+          "localizedDescription": "Super Dark appearance for macOS and iOS: true-black surfaces, white text, green selected rows, stronger separators, and a VS Code High Contrast-style accent. System appearance remains the default; the new mode is persisted from Settings.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818224818/Base-0.3.3-260818224818.ipa",
+          "size": 12310895,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.3",
           "buildVersion": "260818025315",
           "date": "2026-08-18",
           "localizedDescription": "Long-run resilience release: bounded daemon and transcript data, durable render-crash fallback, structural SwiftMath validation with the repaired parser pin, safe persisted-state recovery, corrected window/new-chat commands, and hardened macOS/iOS update paths.",
