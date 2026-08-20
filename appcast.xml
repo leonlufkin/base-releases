@@ -3,6 +3,18 @@
         <title>Base</title>
         <item>
             <title>0.3.3</title>
+            <pubDate>Wed, 19 Aug 2026 20:30:09 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260819202255</link>
+            <sparkle:version>260819202255</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Improved on-device dictation with a higher-accuracy iPhone default, deterministic decoding, final-word capture, environmental-noise cleanup, and safe lone-word suppression. Also includes hardened Markdown/LaTeX rendering, clearer status rails, per-window macOS compact sidebars, reliable window restoration, and remembered names for disconnected devices.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260819202255/Base-0.3.3-260819202255-macOS.zip" length="11414144" type="application/octet-stream" sparkle:edSignature="N+r9qZaBgg7Rpy3D2+i4fUfEGCxuCtONBlGe4gMTejwmGod6CPXzOxX0qjVv7KA8BP8ahQv99D0+gtObu63IAg=="/>
+        </item>
+        <item>
+            <title>0.3.3</title>
             <pubDate>Tue, 18 Aug 2026 23:16:28 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260818224818</link>
             <sparkle:version>260818224818</sparkle:version>

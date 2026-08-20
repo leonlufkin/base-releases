@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "0.3.3",
+          "buildVersion": "260819202255",
+          "date": "2026-08-19",
+          "localizedDescription": "Improved on-device dictation with a higher-accuracy iPhone default, deterministic decoding, final-word capture, environmental-noise cleanup, and safe lone-word suppression. Also includes hardened Markdown/LaTeX rendering, clearer status rails, per-window macOS compact sidebars, reliable window restoration, and remembered names for disconnected devices.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260819202255/Base-0.3.3-260819202255.ipa",
+          "size": 12341198,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.3",
           "buildVersion": "260818224818",
           "date": "2026-08-18",
           "localizedDescription": "Super Dark appearance for macOS and iOS: true-black surfaces, white text, green selected rows, stronger separators, and a VS Code High Contrast-style accent. System appearance remains the default; the new mode is persisted from Settings.",
