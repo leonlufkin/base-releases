@@ -3,6 +3,18 @@
         <title>Base</title>
         <item>
             <title>0.3.3</title>
+            <pubDate>Thu, 20 Aug 2026 20:22:21 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260820201420</link>
+            <sparkle:version>260820201420</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Adds a top-bar jump-to-latest control on macOS and iOS, replaces Stop while reading scrollback, and enables the iOS Send button immediately for prompt answers.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260820201420/Base-0.3.3-260820201420-macOS.zip" length="11418250" type="application/octet-stream" sparkle:edSignature="V18MobbgeyDBuj92BAdHl2Mjs3yIAHY2fqXznp+BOojwYbvdwHyXSpXYXraUmVpZPb9YMpwGWHR4c1Sdqz14AA=="/>
+        </item>
+        <item>
+            <title>0.3.3</title>
             <pubDate>Thu, 20 Aug 2026 18:41:09 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260820183258</link>
             <sparkle:version>260820183258</sparkle:version>
