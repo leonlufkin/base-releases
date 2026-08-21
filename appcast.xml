@@ -3,6 +3,18 @@
         <title>Base</title>
         <item>
             <title>0.3.3</title>
+            <pubDate>Thu, 20 Aug 2026 18:41:09 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260820183258</link>
+            <sparkle:version>260820183258</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Restores the macOS copy-confirmation checkmark and shows complete normal transcript responses instead of ellipsis previews on macOS and iOS. Also hardens transactional macOS relaunches so staged updates reopen reliably without losing deferred windows.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260820183258/Base-0.3.3-260820183258-macOS.zip" length="11412853" type="application/octet-stream" sparkle:edSignature="pesXbTrc1snfjxp8iWBZTMJT2tKMpMSzTqnFnIDV/4/U/uYvysk+BZkjljg2vbbXpCPmeE2rDbdzrQcqZQwtCA=="/>
+        </item>
+        <item>
+            <title>0.3.3</title>
             <pubDate>Wed, 19 Aug 2026 20:30:09 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260819202255</link>
             <sparkle:version>260819202255</sparkle:version>
