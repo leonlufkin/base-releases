@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Signed automatic macOS updates and a public SideStore feed, backed by immutable release artifacts.
+            <description sparkle:format="plain-text"><![CDATA[Fixes the distorted flash when switching into a chat window and cuts power draw: chats stay mounted across Space and app switches, transcripts pin to the newest message without re-layout jumps, and bursty agent updates coalesce on macOS and iOS instead of re-rendering per event.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260821183415/Base-0.3.3-260821183415-macOS.zip" length="11423879" type="application/octet-stream" sparkle:edSignature="FDZfYQDlYzlc0kBERT5K4xJy0S7EyQTiW7sMOzCWRiaftlQGXSKCx8zKM+e0wgZdpDvElS7kXil9h6abZXzODw=="/>
         </item>
@@ -21,7 +21,7 @@
             <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Signed automatic macOS updates and a public SideStore feed, backed by immutable release artifacts.
+            <description sparkle:format="plain-text"><![CDATA[Fixes multi-window slowdown: off-Space chats release transcript rendering and polling, visible windows coalesce shared updates, and active chats stay live.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260821033529/Base-0.3.3-260821033529-macOS.zip" length="11425640" type="application/octet-stream" sparkle:edSignature="UMkr3TBPcGtj9GWKkQeUNBDsvoO/DXgJIPvIt9NRYjHX7jRNWsXCgKDW2HjiU4lpK8T51kNqhEmtu9txDYXeBA=="/>
         </item>

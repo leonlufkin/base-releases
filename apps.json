@@ -20,7 +20,7 @@
           "version": "0.3.3",
           "buildVersion": "260821183415",
           "date": "2026-08-21",
-          "localizedDescription": "Signed automatic macOS updates and a public SideStore feed, backed by immutable release artifacts.",
+          "localizedDescription": "Fixes the distorted flash when switching into a chat window and cuts power draw: chats stay mounted across Space and app switches, transcripts pin to the newest message without re-layout jumps, and bursty agent updates coalesce on macOS and iOS instead of re-rendering per event.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260821183415/Base-0.3.3-260821183415.ipa",
           "size": 12345286,
           "minOSVersion": "18.0"
@@ -29,7 +29,7 @@
           "version": "0.3.3",
           "buildVersion": "260821033529",
           "date": "2026-08-21",
-          "localizedDescription": "Signed automatic macOS updates and a public SideStore feed, backed by immutable release artifacts.",
+          "localizedDescription": "Fixes multi-window slowdown: off-Space chats release transcript rendering and polling, visible windows coalesce shared updates, and active chats stay live.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260821033529/Base-0.3.3-260821033529.ipa",
           "size": 12343259,
           "minOSVersion": "18.0"
