@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "0.3.3",
+          "buildVersion": "260821183415",
+          "date": "2026-08-21",
+          "localizedDescription": "Signed automatic macOS updates and a public SideStore feed, backed by immutable release artifacts.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260821183415/Base-0.3.3-260821183415.ipa",
+          "size": 12345286,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.3",
           "buildVersion": "260821033529",
           "date": "2026-08-21",
           "localizedDescription": "Signed automatic macOS updates and a public SideStore feed, backed by immutable release artifacts.",
