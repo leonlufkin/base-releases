@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "0.3.3",
+          "buildVersion": "260821213743",
+          "date": "2026-08-21",
+          "localizedDescription": "Widens the gap between the GPU dots and the account usage rail in the compact status row on iOS and in the macOS hidden-sidebar chat header.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260821213743/Base-0.3.3-260821213743.ipa",
+          "size": 12343730,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.3",
           "buildVersion": "260821191317",
           "date": "2026-08-21",
           "localizedDescription": "Base now checks for updates every time it opens, so new releases surface immediately instead of waiting out the six-hour cadence. Update capture also reports exactly why it declines and no longer refuses when windows are deferred to other desktops or lack a resolvable display.",
