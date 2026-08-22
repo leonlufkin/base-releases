@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "0.3.3",
+          "buildVersion": "260822032350",
+          "date": "2026-08-22",
+          "localizedDescription": "More space between the GPU dots and the account usage rail in the phone's compact status row.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260822032350/Base-0.3.3-260822032350.ipa",
+          "size": 12342949,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.3",
           "buildVersion": "260821224013",
           "date": "2026-08-21",
           "localizedDescription": "Major efficiency pass for busy fleets: the phone renders status at a glanceable cadence instead of once per agent event, session rows re-render only when their content changes, transcript cache writes stop comparing every cached conversation, and prefetching parks when the cache is full instead of refetching forever.",
