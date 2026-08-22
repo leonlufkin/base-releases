@@ -3,6 +3,18 @@
         <title>Base</title>
         <item>
             <title>0.3.3</title>
+            <pubDate>Fri, 21 Aug 2026 22:48:19 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260821224013</link>
+            <sparkle:version>260821224013</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Major efficiency pass for busy fleets: the phone renders status at a glanceable cadence instead of once per agent event, session rows re-render only when their content changes, transcript cache writes stop comparing every cached conversation, and prefetching parks when the cache is full instead of refetching forever.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260821224013/Base-0.3.3-260821224013-macOS.zip" length="11426636" type="application/octet-stream" sparkle:edSignature="CkXWb5bRLsPE4L+Fx5LKOQUEHGUAeSluqyQDgjM4Dm6as+JwR2Abe1Hd+865Rqj8KgA16FdTP5VFsDNi67uSDw=="/>
+        </item>
+        <item>
+            <title>0.3.3</title>
             <pubDate>Fri, 21 Aug 2026 21:46:12 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260821213743</link>
             <sparkle:version>260821213743</sparkle:version>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Long-run resilience release: bounded daemon and transcript data, durable render-crash fallback, structural SwiftMath validation with the repaired parser pin, safe persisted-state recovery, corrected window/new-chat commands, and hardened macOS/iOS update paths.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818025315/Base-0.3.3-260818025315-macOS.zip" length="11361494" type="application/octet-stream" sparkle:edSignature="y4MHE0XA/GbsdBT2ZUCkDfOUpX/MTPYRxdQDO3RO4mRT/4jJeTUdVGalvn6Pi2ZyqDrW3ltWa8U6CCz/YbrvBw=="/>
-        </item>
-        <item>
-            <title>0.3.3</title>
-            <pubDate>Tue, 18 Aug 2026 01:17:09 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260818011535</link>
-            <sparkle:version>260818011535</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Fix the SwiftMath table-script crash, make future math typesetter traps self-healing, and harden exact macOS window restoration across updates.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818011535/Base-0.3.3-260818011535-macOS.zip" length="11292569" type="application/octet-stream" sparkle:edSignature="rFLwOS8yzn+1nAN5ro8pabFJfQd9LGgSqUicNqkKJEwg0pbldkhQEDWu8p0fG60bTEkX8TTIkqpfXdDa6eMkAw=="/>
         </item>
     </channel>
 </rss>
