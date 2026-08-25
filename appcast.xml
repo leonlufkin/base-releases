@@ -3,6 +3,18 @@
         <title>Base</title>
         <item>
             <title>0.3.3</title>
+            <pubDate>Tue, 25 Aug 2026 13:02:48 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260825125518</link>
+            <sparkle:version>260825125518</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[iPad now gets a real iPadOS layout: a persistent session sidebar beside the open chat, Mac-style, instead of a stretched phone stack. Includes the week's efficiency and rendering work.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260825125518/Base-0.3.3-260825125518-macOS.zip" length="11437546" type="application/octet-stream" sparkle:edSignature="waDl/uuzDU4xmXH3BKrCo33LYG13/DTdkKMuiV5s6nJ3maBEdJNhx91p1jHo5sjVYVBf2pX7TKUAGW6zrmX4Dg=="/>
+        </item>
+        <item>
+            <title>0.3.3</title>
             <pubDate>Sat, 22 Aug 2026 04:39:43 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260822043040</link>
             <sparkle:version>260822043040</sparkle:version>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Adds a top-bar jump-to-latest control on macOS and iOS, replaces Stop while reading scrollback, and enables the iOS Send button immediately for prompt answers.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260820201420/Base-0.3.3-260820201420-macOS.zip" length="11418250" type="application/octet-stream" sparkle:edSignature="V18MobbgeyDBuj92BAdHl2Mjs3yIAHY2fqXznp+BOojwYbvdwHyXSpXYXraUmVpZPb9YMpwGWHR4c1Sdqz14AA=="/>
-        </item>
-        <item>
-            <title>0.3.3</title>
-            <pubDate>Thu, 20 Aug 2026 18:41:09 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260820183258</link>
-            <sparkle:version>260820183258</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Restores the macOS copy-confirmation checkmark and shows complete normal transcript responses instead of ellipsis previews on macOS and iOS. Also hardens transactional macOS relaunches so staged updates reopen reliably without losing deferred windows.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260820183258/Base-0.3.3-260820183258-macOS.zip" length="11412853" type="application/octet-stream" sparkle:edSignature="pesXbTrc1snfjxp8iWBZTMJT2tKMpMSzTqnFnIDV/4/U/uYvysk+BZkjljg2vbbXpCPmeE2rDbdzrQcqZQwtCA=="/>
         </item>
     </channel>
 </rss>

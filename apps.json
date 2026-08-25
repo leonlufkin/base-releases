@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "0.3.3",
+          "buildVersion": "260825125518",
+          "date": "2026-08-25",
+          "localizedDescription": "iPad now gets a real iPadOS layout: a persistent session sidebar beside the open chat, Mac-style, instead of a stretched phone stack. Includes the week's efficiency and rendering work.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260825125518/Base-0.3.3-260825125518.ipa",
+          "size": 12367539,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.3",
           "buildVersion": "260822043040",
           "date": "2026-08-22",
           "localizedDescription": "Chats now render only their newest ~20k characters of scrollback instead of laying out megabytes of markdown per update — fat sessions stop feeling sluggish on both platforms. Older history stays on the daemon exactly as before.",
