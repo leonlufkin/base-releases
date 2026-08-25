@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "0.3.3",
+          "buildVersion": "260825151642",
+          "date": "2026-08-25",
+          "localizedDescription": "Sidebar can now be hidden on iPad (toggle in the chat header), a new Row spacing setting (Tight/Default/Roomy) on all platforms, and hosts you have never reached now show their names instead of raw IPs - daemons advertise fleet labels.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260825151642/Base-0.3.3-260825151642.ipa",
+          "size": 12382319,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.3",
           "buildVersion": "260825125518",
           "date": "2026-08-25",
           "localizedDescription": "iPad now gets a real iPadOS layout: a persistent session sidebar beside the open chat, Mac-style, instead of a stretched phone stack. Includes the week's efficiency and rendering work.",
