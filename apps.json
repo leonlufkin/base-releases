@@ -5,6 +5,7 @@
   "iconURL": "https://raw.githubusercontent.com/leonlufkin/base-releases/main/Base.png",
   "website": "https://github.com/leonlufkin/base-releases",
   "tintColor": "#355C7D",
+  "latestDownloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260825155838/Base-0.3.3-260825155838.ipa",
   "apps": [
     {
       "name": "Base",
