@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.6</title>
+            <pubDate>Fri, 28 Aug 2026 01:53:53 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.6-260828014226</link>
+            <sparkle:version>260828014226</sparkle:version>
+            <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Adds more breathing room above recent widget chats, dates recency from completed replies instead of in-flight activity, and removes the meaningless Apple badge from Codex headers.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.6-260828014226/Base-0.3.6-260828014226-macOS.zip" length="11512990" type="application/octet-stream" sparkle:edSignature="ixAPdQr1sbN+wIvOxTJqwkAAEquMQe2/hZbV8Y5a2Y8EnZDb//9M/fR2Q4NkWNDlaveTf3rGK0a3WG+qF259CQ=="/>
+        </item>
+        <item>
             <title>0.3.5</title>
             <pubDate>Fri, 28 Aug 2026 01:13:02 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.5-260828010203</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[More space between the GPU dots and the account usage rail in the phone's compact status row.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260822032350/Base-0.3.3-260822032350-macOS.zip" length="11426439" type="application/octet-stream" sparkle:edSignature="pf9qlC38QRW5mUOvG29Asq0r26Wm5/aX8MfeJFa2lk6iDzT22gp92IUvXe9TjvS1W8dMSQCHOKIBa0RhPV/2CA=="/>
-        </item>
-        <item>
-            <title>0.3.3</title>
-            <pubDate>Fri, 21 Aug 2026 22:48:19 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260821224013</link>
-            <sparkle:version>260821224013</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Major efficiency pass for busy fleets: the phone renders status at a glanceable cadence instead of once per agent event, session rows re-render only when their content changes, transcript cache writes stop comparing every cached conversation, and prefetching parks when the cache is full instead of refetching forever.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260821224013/Base-0.3.3-260821224013-macOS.zip" length="11426636" type="application/octet-stream" sparkle:edSignature="CkXWb5bRLsPE4L+Fx5LKOQUEHGUAeSluqyQDgjM4Dm6as+JwR2Abe1Hd+865Rqj8KgA16FdTP5VFsDNi67uSDw=="/>
         </item>
     </channel>
 </rss>
