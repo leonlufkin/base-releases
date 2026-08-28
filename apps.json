@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "0.3.3",
+          "buildVersion": "260827194722",
+          "date": "2026-08-27",
+          "localizedDescription": "Declutters the iPadOS status widget: removes the Base and Recent Chats headings, refresh timer, chat bullets, and horizontal separators; GPU dots now stack above token pressure.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260827194722/Base-0.3.3-260827194722.ipa",
+          "size": 12714281,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.3",
           "buildVersion": "260827183747",
           "date": "2026-08-27",
           "localizedDescription": "Remote-first iOS dictation with automatic on-device fallback, accurate cross-device chat working status after completed turns, and the latest rendering, widget, window, and efficiency repairs.",
@@ -185,15 +194,6 @@
           "localizedDescription": "Launchable stable macOS updates, mathtools small-matrix rendering, and the public SideStore feed.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818000611/Base-0.3.3-260818000611.ipa",
           "size": 12096066,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.3",
-          "buildVersion": "260817234450",
-          "date": "2026-08-17",
-          "localizedDescription": "Signed automatic macOS updates and a public SideStore feed, backed by immutable release artifacts.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260817234450/Base-0.3.3-260817234450.ipa",
-          "size": 12096148,
           "minOSVersion": "18.0"
         }
       ],
