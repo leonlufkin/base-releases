@@ -1,5 +1,6 @@
 {
   "name": "Base",
+  "identifier": "com.leonlufkin.base.source",
   "subtitle": "Native access to your Riad agents.",
   "description": "Signed, immutable iPhone and iPad releases of Base.",
   "iconURL": "https://raw.githubusercontent.com/leonlufkin/base-releases/main/Base.png",
@@ -16,6 +17,15 @@
       "tintColor": "#355C7D",
       "category": "developer",
       "versions": [
+        {
+          "version": "0.3.4",
+          "buildVersion": "260827235916",
+          "date": "2026-08-28",
+          "localizedDescription": "Centers the small status widget, simplifies recent-chat ages to minutes, and restores SideStore-visible updates with a stable source identifier and marketing-version guard.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.4-260827235916/Base-0.3.4-260827235916.ipa",
+          "size": 12718186,
+          "minOSVersion": "18.0"
+        },
         {
           "version": "0.3.3",
           "buildVersion": "260827194722",
@@ -186,15 +196,6 @@
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818011535/Base-0.3.3-260818011535.ipa",
           "size": 12100128,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.3",
-          "buildVersion": "260818000611",
-          "date": "2026-08-18",
-          "localizedDescription": "Launchable stable macOS updates, mathtools small-matrix rendering, and the public SideStore feed.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818000611/Base-0.3.3-260818000611.ipa",
-          "size": 12096066,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -205,6 +206,5 @@
       }
     }
   ],
-  "news": [],
-  "identifier": "com.leonlufkin.base.source"
+  "news": []
 }
