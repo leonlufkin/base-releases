@@ -3,6 +3,18 @@
         <title>Base</title>
         <item>
             <title>0.3.3</title>
+            <pubDate>Thu, 27 Aug 2026 18:45:56 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260827183747</link>
+            <sparkle:version>260827183747</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Remote-first iOS dictation with automatic on-device fallback, accurate cross-device chat working status after completed turns, and the latest rendering, widget, window, and efficiency repairs.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260827183747/Base-0.3.3-260827183747-macOS.zip" length="11510096" type="application/octet-stream" sparkle:edSignature="X2bSquuhiX/KwQI4oZNAqvwFU5YVtwd2d7i4Z1s4QMw8ivDubPGfW5nCJrTg2mD9pjz8WmmG9fbfwrkGqoL/Bg=="/>
+        </item>
+        <item>
+            <title>0.3.3</title>
             <pubDate>Tue, 25 Aug 2026 16:08:12 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260825155838</link>
             <sparkle:version>260825155838</sparkle:version>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Base now checks for updates every time it opens, so new releases surface immediately instead of waiting out the six-hour cadence. Update capture also reports exactly why it declines and no longer refuses when windows are deferred to other desktops or lack a resolvable display.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260821191317/Base-0.3.3-260821191317-macOS.zip" length="11425535" type="application/octet-stream" sparkle:edSignature="336hYQ0dxJP40rUbZ/bMV7XWtwBxgEawdAGoeHWKONTkaeL5zPyWebrlMx6/GK9lgPm7wR410UuXppAp54wjAw=="/>
-        </item>
-        <item>
-            <title>0.3.3</title>
-            <pubDate>Fri, 21 Aug 2026 18:42:49 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260821183415</link>
-            <sparkle:version>260821183415</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Fixes the distorted flash when switching into a chat window and cuts power draw: chats stay mounted across Space and app switches, transcripts pin to the newest message without re-layout jumps, and bursty agent updates coalesce on macOS and iOS instead of re-rendering per event.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260821183415/Base-0.3.3-260821183415-macOS.zip" length="11423879" type="application/octet-stream" sparkle:edSignature="FDZfYQDlYzlc0kBERT5K4xJy0S7EyQTiW7sMOzCWRiaftlQGXSKCx8zKM+e0wgZdpDvElS7kXil9h6abZXzODw=="/>
         </item>
     </channel>
 </rss>

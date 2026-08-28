@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "0.3.3",
+          "buildVersion": "260827183747",
+          "date": "2026-08-27",
+          "localizedDescription": "Remote-first iOS dictation with automatic on-device fallback, accurate cross-device chat working status after completed turns, and the latest rendering, widget, window, and efficiency repairs.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260827183747/Base-0.3.3-260827183747.ipa",
+          "size": 12727718,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.3.3",
           "buildVersion": "260825155838",
           "date": "2026-08-25",
           "localizedDescription": "Landscape on iPad is fixed: the app now declares every orientation, so iPadOS renders it full-width instead of letterboxing a portrait canvas between black bars.",
@@ -191,7 +200,7 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSMicrophoneUsageDescription": "Base transcribes your voice on-device to message your agents."
+          "NSMicrophoneUsageDescription": "Base records audio for dictation and transcribes it on your Mac Mini when available or on this device."
         }
       }
     }
