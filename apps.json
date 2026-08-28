@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.5",
+          "buildVersion": "260828010203",
+          "date": "2026-08-28",
+          "localizedDescription": "Adds a little breathing room above recent chats in the Base Status widget, renders complete OMP math during long tool turns, and clears finished OMP todo strips as soon as the live plan disappears.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.5-260828010203/Base-0.3.5-260828010203.ipa",
+          "size": 12718124,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.4",
           "buildVersion": "260827235916",
           "date": "2026-08-28",
@@ -186,15 +195,6 @@
           "localizedDescription": "Long-run resilience release: bounded daemon and transcript data, durable render-crash fallback, structural SwiftMath validation with the repaired parser pin, safe persisted-state recovery, corrected window/new-chat commands, and hardened macOS/iOS update paths.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818025315/Base-0.3.3-260818025315.ipa",
           "size": 12288660,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.3",
-          "buildVersion": "260818011535",
-          "date": "2026-08-18",
-          "localizedDescription": "Fix the SwiftMath table-script crash, make future math typesetter traps self-healing, and harden exact macOS window restoration across updates.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818011535/Base-0.3.3-260818011535.ipa",
-          "size": 12100128,
           "minOSVersion": "18.0"
         }
       ],
