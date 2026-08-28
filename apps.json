@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.7",
+          "buildVersion": "260828022144",
+          "date": "2026-08-28",
+          "localizedDescription": "Shows an honest disconnected widget state: neutral gray status geometry, normal segmented meters, and em-dash chat rows with no fake names, ages, or stale cached sessions.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.7-260828022144/Base-0.3.7-260828022144.ipa",
+          "size": 12735885,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.6",
           "buildVersion": "260828014226",
           "date": "2026-08-28",
@@ -186,15 +195,6 @@
           "localizedDescription": "Improved on-device dictation with a higher-accuracy iPhone default, deterministic decoding, final-word capture, environmental-noise cleanup, and safe lone-word suppression. Also includes hardened Markdown/LaTeX rendering, clearer status rails, per-window macOS compact sidebars, reliable window restoration, and remembered names for disconnected devices.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260819202255/Base-0.3.3-260819202255.ipa",
           "size": 12341198,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.3",
-          "buildVersion": "260818224818",
-          "date": "2026-08-18",
-          "localizedDescription": "Super Dark appearance for macOS and iOS: true-black surfaces, white text, green selected rows, stronger separators, and a VS Code High Contrast-style accent. System appearance remains the default; the new mode is persisted from Settings.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260818224818/Base-0.3.3-260818224818.ipa",
-          "size": 12310895,
           "minOSVersion": "18.0"
         }
       ],

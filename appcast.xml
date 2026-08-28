@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.7</title>
+            <pubDate>Fri, 28 Aug 2026 02:47:49 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.7-260828022144</link>
+            <sparkle:version>260828022144</sparkle:version>
+            <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Shows an honest disconnected widget state: neutral gray status geometry, normal segmented meters, and em-dash chat rows with no fake names, ages, or stale cached sessions.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.7-260828022144/Base-0.3.7-260828022144-macOS.zip" length="11512999" type="application/octet-stream" sparkle:edSignature="zi7hH0O1dzsXnibGZJ5lJBB4lyJswAQ7xokKugVNCdfMOenyUJP+n9CvmsEuJdbvksae1XhZotpTRPe3okTRCg=="/>
+        </item>
+        <item>
             <title>0.3.6</title>
             <pubDate>Fri, 28 Aug 2026 01:53:53 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.6-260828014226</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Wide markdown tables now stack into labeled per-row cards when the pane is too narrow for every column, instead of hiding most columns behind an unmarked sideways scroll — a 13-column training table is fully readable on the phone.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260822034445/Base-0.3.3-260822034445-macOS.zip" length="11431766" type="application/octet-stream" sparkle:edSignature="XuRftDy/wUSf4zIbJq7bHPxnhKdaMAopoKWxar47xc2pD2moUq2jSm0/1ICtNnv+N9hTcJ3ervWAcxkz1gKqBQ=="/>
-        </item>
-        <item>
-            <title>0.3.3</title>
-            <pubDate>Sat, 22 Aug 2026 03:32:30 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260822032350</link>
-            <sparkle:version>260822032350</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[More space between the GPU dots and the account usage rail in the phone's compact status row.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260822032350/Base-0.3.3-260822032350-macOS.zip" length="11426439" type="application/octet-stream" sparkle:edSignature="pf9qlC38QRW5mUOvG29Asq0r26Wm5/aX8MfeJFa2lk6iDzT22gp92IUvXe9TjvS1W8dMSQCHOKIBa0RhPV/2CA=="/>
         </item>
     </channel>
 </rss>
