@@ -205,5 +205,6 @@
       }
     }
   ],
-  "news": []
+  "news": [],
+  "identifier": "com.leonlufkin.base.source"
 }
