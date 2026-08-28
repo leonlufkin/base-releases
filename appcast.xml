@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.8</title>
+            <pubDate>Fri, 28 Aug 2026 03:40:40 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.8-260828032608</link>
+            <sparkle:version>260828032608</sparkle:version>
+            <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Makes the widget connect independently before Base is opened by bootstrapping the full fleet and waiting for iOS to restore the Tailscale tunnel.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.8-260828032608/Base-0.3.8-260828032608-macOS.zip" length="11513190" type="application/octet-stream" sparkle:edSignature="N7z1ecakipV8IIIXtun6iVkJHspSOwmenLd4xtU7OFDzLE/VPyaREfskOg5zvIavG1OtTsjvRh5DcsvJQsvUCQ=="/>
+        </item>
+        <item>
             <title>0.3.7</title>
             <pubDate>Fri, 28 Aug 2026 02:47:49 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.7-260828022144</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Chats now render only their newest ~20k characters of scrollback instead of laying out megabytes of markdown per update — fat sessions stop feeling sluggish on both platforms. Older history stays on the daemon exactly as before.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260822043040/Base-0.3.3-260822043040-macOS.zip" length="11432088" type="application/octet-stream" sparkle:edSignature="EDtvK5Iq8hbAAFIL68hQYDcrzAS3aeMcY8kzC68zk8SX7BS4KlCINfwh80AQ81vvrDalcPIAsOtEkwqOssSZBA=="/>
-        </item>
-        <item>
-            <title>0.3.3</title>
-            <pubDate>Sat, 22 Aug 2026 03:52:54 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260822034445</link>
-            <sparkle:version>260822034445</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Wide markdown tables now stack into labeled per-row cards when the pane is too narrow for every column, instead of hiding most columns behind an unmarked sideways scroll — a 13-column training table is fully readable on the phone.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260822034445/Base-0.3.3-260822034445-macOS.zip" length="11431766" type="application/octet-stream" sparkle:edSignature="XuRftDy/wUSf4zIbJq7bHPxnhKdaMAopoKWxar47xc2pD2moUq2jSm0/1ICtNnv+N9hTcJ3ervWAcxkz1gKqBQ=="/>
         </item>
     </channel>
 </rss>

@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.8",
+          "buildVersion": "260828032608",
+          "date": "2026-08-28",
+          "localizedDescription": "Makes the widget connect independently before Base is opened by bootstrapping the full fleet and waiting for iOS to restore the Tailscale tunnel.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.8-260828032608/Base-0.3.8-260828032608.ipa",
+          "size": 12741337,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.7",
           "buildVersion": "260828022144",
           "date": "2026-08-28",
@@ -186,15 +195,6 @@
           "localizedDescription": "Restores the macOS copy-confirmation checkmark and shows complete normal transcript responses instead of ellipsis previews on macOS and iOS. Also hardens transactional macOS relaunches so staged updates reopen reliably without losing deferred windows.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260820183258/Base-0.3.3-260820183258.ipa",
           "size": 12335820,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.3",
-          "buildVersion": "260819202255",
-          "date": "2026-08-19",
-          "localizedDescription": "Improved on-device dictation with a higher-accuracy iPhone default, deterministic decoding, final-word capture, environmental-noise cleanup, and safe lone-word suppression. Also includes hardened Markdown/LaTeX rendering, clearer status rails, per-window macOS compact sidebars, reliable window restoration, and remembered names for disconnected devices.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260819202255/Base-0.3.3-260819202255.ipa",
-          "size": 12341198,
           "minOSVersion": "18.0"
         }
       ],
