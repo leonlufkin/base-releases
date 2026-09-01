@@ -1,11 +1,11 @@
 {
-  "name": "Base",
+  "name": "Riad Apps",
   "identifier": "com.leonlufkin.base.source",
-  "subtitle": "Native access to your Riad agents.",
-  "description": "Signed, immutable iPhone and iPad releases of Base.",
-  "iconURL": "https://raw.githubusercontent.com/leonlufkin/base-releases/main/Base.png",
+  "subtitle": "Private native tools for Leon's devices.",
+  "description": "Signed, immutable iPhone and iPad releases of Base and Scribe.",
+  "iconURL": "https://raw.githubusercontent.com/leonlufkin/base-releases/main/Scribe.png",
   "website": "https://github.com/leonlufkin/base-releases",
-  "tintColor": "#355C7D",
+  "tintColor": "#7A4FA3",
   "apps": [
     {
       "name": "Base",
@@ -202,6 +202,33 @@
         "entitlements": [],
         "privacy": {
           "NSMicrophoneUsageDescription": "Base records audio for dictation and transcribes it on your Mac Mini when available or on this device."
+        }
+      }
+    },
+    {
+      "bundleIdentifier": "com.leonlufkin.scribe",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "260901164138",
+          "date": "2026-09-01",
+          "localizedDescription": "Private foreground dictation for iPhone and iPad. Audio travels only over your Tailscale network to Scribe on your Mac mini, where the installed WhisperKit model transcribes it locally.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/scribe-v1.0.0-260901164138/Scribe-1.0.0-260901164138.ipa",
+          "size": 931639,
+          "minOSVersion": "18.0"
+        }
+      ],
+      "name": "Scribe",
+      "developerName": "Leon Lufkin",
+      "subtitle": "Private Mac mini-powered dictation for iPhone and iPad.",
+      "localizedDescription": "Scribe records in the foreground and sends 16 kHz mono audio only over your private Tailscale network to your Mac mini. Scribe on the Mac transcribes it with the installed local WhisperKit model and returns the text. Its App Shortcut starts dictation from Siri, Control Center, the Action Button, or Back Tap.",
+      "iconURL": "https://raw.githubusercontent.com/leonlufkin/base-releases/main/Scribe.png",
+      "tintColor": "#7A4FA3",
+      "category": "utilities",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Scribe records your voice, then sends the recording over your private Tailscale network to your Mac mini for local transcription."
         }
       }
     }
