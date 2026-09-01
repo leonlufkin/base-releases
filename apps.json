@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.11",
+          "buildVersion": "260901163146",
+          "date": "2026-09-01",
+          "localizedDescription": "Restores iPad fleet connectivity on iPhone Personal Hotspot by restarting stale network routes immediately and bounding Tailscale health probes.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.11-260901163146/Base-0.3.11-260901163146.ipa",
+          "size": 12738157,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.10",
           "buildVersion": "260901150800",
           "date": "2026-09-01",
@@ -186,15 +195,6 @@
           "localizedDescription": "Fixes the distorted flash when switching into a chat window and cuts power draw: chats stay mounted across Space and app switches, transcripts pin to the newest message without re-layout jumps, and bursty agent updates coalesce on macOS and iOS instead of re-rendering per event.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260821183415/Base-0.3.3-260821183415.ipa",
           "size": 12345286,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.3",
-          "buildVersion": "260821033529",
-          "date": "2026-08-21",
-          "localizedDescription": "Fixes multi-window slowdown: off-Space chats release transcript rendering and polling, visible windows coalesce shared updates, and active chats stay live.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260821033529/Base-0.3.3-260821033529.ipa",
-          "size": 12343259,
           "minOSVersion": "18.0"
         }
       ],
