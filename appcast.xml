@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.12</title>
+            <pubDate>Tue, 01 Sep 2026 18:02:04 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.12-260901174556</link>
+            <sparkle:version>260901174556</sparkle:version>
+            <sparkle:shortVersionString>0.3.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Adds per-host hidden-chat disclosure arrows while preserving the global reveal control, and keeps selected Frequent duplicates gray in their original host.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.12-260901174556/Base-0.3.12-260901174556-macOS.zip" length="11518380" type="application/octet-stream" sparkle:edSignature="U+LhdFAbo27jCY5dssiG683NR2yEw018M8Xs4wL+pedXTtO6LTIrNaRuFJj1yr0OE7/WRhRkU5t5Z0MMksZhBg=="/>
+        </item>
+        <item>
             <title>0.3.11</title>
             <pubDate>Tue, 01 Sep 2026 16:47:10 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.11-260901163146</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Sidebar can now be hidden on iPad (toggle in the chat header), a new Row spacing setting (Tight/Default/Roomy) on all platforms, and hosts you have never reached now show their names instead of raw IPs - daemons advertise fleet labels.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260825151642/Base-0.3.3-260825151642-macOS.zip" length="11444808" type="application/octet-stream" sparkle:edSignature="PpIE9NGirLbsFAonkQ+mwszQHMc4h5CikbIBa4NMY1QnaPqO9q2d8ejZIUlB3pqMMowY99+pXaYGtXLy7LrRDw=="/>
-        </item>
-        <item>
-            <title>0.3.3</title>
-            <pubDate>Tue, 25 Aug 2026 13:02:48 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260825125518</link>
-            <sparkle:version>260825125518</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[iPad now gets a real iPadOS layout: a persistent session sidebar beside the open chat, Mac-style, instead of a stretched phone stack. Includes the week's efficiency and rendering work.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260825125518/Base-0.3.3-260825125518-macOS.zip" length="11437546" type="application/octet-stream" sparkle:edSignature="waDl/uuzDU4xmXH3BKrCo33LYG13/DTdkKMuiV5s6nJ3maBEdJNhx91p1jHo5sjVYVBf2pX7TKUAGW6zrmX4Dg=="/>
         </item>
     </channel>
 </rss>
