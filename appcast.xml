@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.13</title>
+            <pubDate>Tue, 01 Sep 2026 18:42:01 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.13-260901182732</link>
+            <sparkle:version>260901182732</sparkle:version>
+            <sparkle:shortVersionString>0.3.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Makes each per-host hidden-chat arrow compact and trailing-aligned, reclaiming sidebar space without changing its behavior.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.13-260901182732/Base-0.3.13-260901182732-macOS.zip" length="11519187" type="application/octet-stream" sparkle:edSignature="IYrw6fTi2yxzp1fbtfdBIu6dNM7sXFJnPWR6EtjWB1LzoKJPdUZcxcNZrtXmx+LLiuXnQF7YIY7RjZNXFgfiAw=="/>
+        </item>
+        <item>
             <title>0.3.12</title>
             <pubDate>Tue, 01 Sep 2026 18:02:04 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.12-260901174556</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Landscape on iPad is fixed: the app now declares every orientation, so iPadOS renders it full-width instead of letterboxing a portrait canvas between black bars.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260825155838/Base-0.3.3-260825155838-macOS.zip" length="11444820" type="application/octet-stream" sparkle:edSignature="4VsvYYY0Q+aXP64b0Fus/g2g8ZOqLglfoE7Ws8zkf3O7JRdbsgl4X3U+WTh5mLbwQ1lPqEBeMesxPx167g6fAw=="/>
-        </item>
-        <item>
-            <title>0.3.3</title>
-            <pubDate>Tue, 25 Aug 2026 15:29:24 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260825151642</link>
-            <sparkle:version>260825151642</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Sidebar can now be hidden on iPad (toggle in the chat header), a new Row spacing setting (Tight/Default/Roomy) on all platforms, and hosts you have never reached now show their names instead of raw IPs - daemons advertise fleet labels.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260825151642/Base-0.3.3-260825151642-macOS.zip" length="11444808" type="application/octet-stream" sparkle:edSignature="PpIE9NGirLbsFAonkQ+mwszQHMc4h5CikbIBa4NMY1QnaPqO9q2d8ejZIUlB3pqMMowY99+pXaYGtXLy7LrRDw=="/>
         </item>
     </channel>
 </rss>
