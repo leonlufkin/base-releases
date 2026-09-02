@@ -210,6 +210,15 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "260901175210",
+          "date": "2026-09-01",
+          "localizedDescription": "Private foreground dictation for iPhone and iPad. Audio travels only over your Tailscale network to Scribe on your Mac mini, where the installed WhisperKit model transcribes it locally.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/scribe-v1.0.0-260901175210/Scribe-1.0.0-260901175210.ipa",
+          "size": 939916,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "260901171840",
           "date": "2026-09-01",
           "localizedDescription": "Private foreground dictation for iPhone and iPad. Audio travels only over your Tailscale network to Scribe on your Mac mini, where the installed WhisperKit model transcribes it locally.",
