@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.17</title>
+            <pubDate>Wed, 02 Sep 2026 04:37:41 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.17-260902042536</link>
+            <sparkle:version>260902042536</sparkle:version>
+            <sparkle:shortVersionString>0.3.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Native Liquid Glass now styles Base's navigation and composer controls on iPhone, iPad, and macOS 26, with an Appearance setting to switch back to the flat controls.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.17-260902042536/Base-0.3.17-260902042536-macOS.zip" length="11539131" type="application/octet-stream" sparkle:edSignature="mUtJuDVfuvzaYP7C0nTAYgqo1pQVvZjxVu0NTNtVX4cj1gk1LtckAWl4YdyWyt+vdVASPITwKlX6aWYlXxhdAw=="/>
+        </item>
+        <item>
             <title>0.3.16</title>
             <pubDate>Tue, 01 Sep 2026 23:59:43 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.16-260901234359</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Adds more breathing room above recent widget chats, dates recency from completed replies instead of in-flight activity, and removes the meaningless Apple badge from Codex headers.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.6-260828014226/Base-0.3.6-260828014226-macOS.zip" length="11512990" type="application/octet-stream" sparkle:edSignature="ixAPdQr1sbN+wIvOxTJqwkAAEquMQe2/hZbV8Y5a2Y8EnZDb//9M/fR2Q4NkWNDlaveTf3rGK0a3WG+qF259CQ=="/>
-        </item>
-        <item>
-            <title>0.3.5</title>
-            <pubDate>Fri, 28 Aug 2026 01:13:02 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.5-260828010203</link>
-            <sparkle:version>260828010203</sparkle:version>
-            <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Adds a little breathing room above recent chats in the Base Status widget, renders complete OMP math during long tool turns, and clears finished OMP todo strips as soon as the live plan disappears.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.5-260828010203/Base-0.3.5-260828010203-macOS.zip" length="11512763" type="application/octet-stream" sparkle:edSignature="W9sQcy1j9OAUeTcwuxC+qXbrXynXtHjwHxPirOx1X3fOPoyIGhISbkP9sX2GPUS5dU8W6chO+W8VDoGsObi7Aw=="/>
         </item>
     </channel>
 </rss>

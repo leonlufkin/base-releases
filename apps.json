@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.17",
+          "buildVersion": "260902042536",
+          "date": "2026-09-02",
+          "localizedDescription": "Native Liquid Glass now styles Base's navigation and composer controls on iPhone, iPad, and macOS 26, with an Appearance setting to switch back to the flat controls.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.17-260902042536/Base-0.3.17-260902042536.ipa",
+          "size": 12767958,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.16",
           "buildVersion": "260901234359",
           "date": "2026-09-01",
@@ -186,15 +195,6 @@
           "localizedDescription": "Chats now render only their newest ~20k characters of scrollback instead of laying out megabytes of markdown per update — fat sessions stop feeling sluggish on both platforms. Older history stays on the daemon exactly as before.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260822043040/Base-0.3.3-260822043040.ipa",
           "size": 12349362,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.3",
-          "buildVersion": "260822034445",
-          "date": "2026-08-22",
-          "localizedDescription": "Wide markdown tables now stack into labeled per-row cards when the pane is too narrow for every column, instead of hiding most columns behind an unmarked sideways scroll — a 13-column training table is fully readable on the phone.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260822034445/Base-0.3.3-260822034445.ipa",
-          "size": 12349193,
           "minOSVersion": "18.0"
         }
       ],
