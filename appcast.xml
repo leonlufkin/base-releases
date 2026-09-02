@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.14</title>
+            <pubDate>Tue, 01 Sep 2026 19:11:38 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.14-260901185839</link>
+            <sparkle:version>260901185839</sparkle:version>
+            <sparkle:shortVersionString>0.3.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Tucks each per-host hidden-chat arrow into that host’s final visible session row, eliminating all disclosure-only vertical space.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.14-260901185839/Base-0.3.14-260901185839-macOS.zip" length="11519175" type="application/octet-stream" sparkle:edSignature="sG1tgiqJWnhJjJFr/eJt8JEEdYe4BXlfwuP+vwlaqCHStBSrT/20qr6JKqrviC+8ycKcjdJ4yD2Vl/YRSqA+AA=="/>
+        </item>
+        <item>
             <title>0.3.13</title>
             <pubDate>Tue, 01 Sep 2026 18:42:01 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.13-260901182732</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Remote-first iOS dictation with automatic on-device fallback, accurate cross-device chat working status after completed turns, and the latest rendering, widget, window, and efficiency repairs.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260827183747/Base-0.3.3-260827183747-macOS.zip" length="11510096" type="application/octet-stream" sparkle:edSignature="X2bSquuhiX/KwQI4oZNAqvwFU5YVtwd2d7i4Z1s4QMw8ivDubPGfW5nCJrTg2mD9pjz8WmmG9fbfwrkGqoL/Bg=="/>
-        </item>
-        <item>
-            <title>0.3.3</title>
-            <pubDate>Tue, 25 Aug 2026 16:08:12 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.3-260825155838</link>
-            <sparkle:version>260825155838</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Landscape on iPad is fixed: the app now declares every orientation, so iPadOS renders it full-width instead of letterboxing a portrait canvas between black bars.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260825155838/Base-0.3.3-260825155838-macOS.zip" length="11444820" type="application/octet-stream" sparkle:edSignature="4VsvYYY0Q+aXP64b0Fus/g2g8ZOqLglfoE7Ws8zkf3O7JRdbsgl4X3U+WTh5mLbwQ1lPqEBeMesxPx167g6fAw=="/>
         </item>
     </channel>
 </rss>
