@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.16</title>
+            <pubDate>Tue, 01 Sep 2026 23:59:43 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.16-260901234359</link>
+            <sparkle:version>260901234359</sparkle:version>
+            <sparkle:shortVersionString>0.3.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Markdown tables remain one aligned grid on iPhone, iPad, and Mac; wide tables scroll horizontally instead of splitting into row cards.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.16-260901234359/Base-0.3.16-260901234359-macOS.zip" length="11516590" type="application/octet-stream" sparkle:edSignature="4DKsJf6YLb1nzAfWdt2uzAruS0Kto+GTmHuMTLMFsMTw5xFZYPORLoFjmZBMBjmw4/m15TxCqFto2xWp0k1gBw=="/>
+        </item>
+        <item>
             <title>0.3.15</title>
             <pubDate>Tue, 01 Sep 2026 21:44:50 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.15-260901213005</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Adds a little breathing room above recent chats in the Base Status widget, renders complete OMP math during long tool turns, and clears finished OMP todo strips as soon as the live plan disappears.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.5-260828010203/Base-0.3.5-260828010203-macOS.zip" length="11512763" type="application/octet-stream" sparkle:edSignature="W9sQcy1j9OAUeTcwuxC+qXbrXynXtHjwHxPirOx1X3fOPoyIGhISbkP9sX2GPUS5dU8W6chO+W8VDoGsObi7Aw=="/>
-        </item>
-        <item>
-            <title>0.3.4</title>
-            <pubDate>Fri, 28 Aug 2026 00:14:19 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.4-260827235916</link>
-            <sparkle:version>260827235916</sparkle:version>
-            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Centers the small status widget, simplifies recent-chat ages to minutes, and restores SideStore-visible updates with a stable source identifier and marketing-version guard.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.4-260827235916/Base-0.3.4-260827235916-macOS.zip" length="11512589" type="application/octet-stream" sparkle:edSignature="NwA3GjjTiPzCJCgdB8WLTtdIB2Xhic+xqf9v8r6kQLXJRr+MH9gIEar3kN4Zi3KCPLqwgFU6wfi+6fo6wr53Bw=="/>
         </item>
     </channel>
 </rss>
