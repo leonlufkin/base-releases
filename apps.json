@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.22",
+          "buildVersion": "260902211620",
+          "date": "2026-09-02",
+          "localizedDescription": "Integrates the validated cleanup branch: full daemon/API security and lifecycle cleanup, bounded transcript caches, fixed Shift-Return insertion, complete long-message display up to the hard safety cap, and translucency limited to Base's background while foreground controls remain solid.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.22-260902211620/Base-0.3.22-260902211620.ipa",
+          "size": 12836733,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.21",
           "buildVersion": "260902204748",
           "date": "2026-09-02",
@@ -187,19 +196,12 @@
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260827194722/Base-0.3.3-260827194722.ipa",
           "size": 12714281,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.3",
-          "buildVersion": "260827183747",
-          "date": "2026-08-27",
-          "localizedDescription": "Remote-first iOS dictation with automatic on-device fallback, accurate cross-device chat working status after completed turns, and the latest rendering, widget, window, and efficiency repairs.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260827183747/Base-0.3.3-260827183747.ipa",
-          "size": 12727718,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSMicrophoneUsageDescription": "Base records audio for dictation and transcribes it on your Mac Mini when available or on this device."
         }
