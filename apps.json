@@ -2,7 +2,7 @@
   "name": "Riad Apps",
   "identifier": "com.leonlufkin.base.source",
   "subtitle": "Private native tools for Leon's devices.",
-  "description": "Signed, immutable iPhone and iPad releases of Base and Scribe.",
+  "description": "Signed, immutable iPhone and iPad releases of Base, Riad, and Scribe.",
   "iconURL": "https://raw.githubusercontent.com/leonlufkin/base-releases/main/Base.png",
   "website": "https://github.com/leonlufkin/base-releases",
   "tintColor": "#355C7D",
