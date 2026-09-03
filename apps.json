@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.26",
+          "buildVersion": "260903152359",
+          "date": "2026-09-03",
+          "localizedDescription": "Preserve Hatt activity timestamps, keep Base hosts distinct by raw daemon identity, repair stale iPhone fleet seeds, and make macOS daemon installation machine-aware.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.26-260903152359/Base-0.3.26-260903152359.ipa",
+          "size": 12748690,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.25",
           "buildVersion": "260903012314",
           "date": "2026-09-03",
@@ -186,15 +195,6 @@
           "localizedDescription": "Adds more breathing room above recent widget chats, dates recency from completed replies instead of in-flight activity, and removes the meaningless Apple badge from Codex headers.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.6-260828014226/Base-0.3.6-260828014226.ipa",
           "size": 12719012,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.5",
-          "buildVersion": "260828010203",
-          "date": "2026-08-28",
-          "localizedDescription": "Adds a little breathing room above recent chats in the Base Status widget, renders complete OMP math during long tool turns, and clears finished OMP todo strips as soon as the live plan disappears.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.5-260828010203/Base-0.3.5-260828010203.ipa",
-          "size": 12718124,
           "minOSVersion": "18.0"
         }
       ],
