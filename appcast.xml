@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.21</title>
+            <pubDate>Wed, 02 Sep 2026 20:57:25 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.21-260902204748</link>
+            <sparkle:version>260902204748</sparkle:version>
+            <sparkle:shortVersionString>0.3.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Keeps translucency behind Base's content while foreground controls remain solid. Long and structurally dense transcript rows now render fully without per-message Show full message controls. Mac Shift-Return inserts exactly one newline; Return still sends. The existing hard payload cap and render fence remain in place.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.21-260902204748/Base-0.3.21-260902204748-macOS.zip" length="11518307" type="application/octet-stream" sparkle:edSignature="9FqoHtkW2ivJWpCa5ZopzrRhrRPdOKVHDaW5NsBXI25qU6d+J8gE0+OHWJcozvnqD3aj8MS751djmFf1cqDzAw=="/>
+        </item>
+        <item>
             <title>0.3.20</title>
             <pubDate>Wed, 02 Sep 2026 20:36:26 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.20-260902202732</link>
@@ -109,18 +121,6 @@
             <description sparkle:format="plain-text"><![CDATA[Adds per-host hidden-chat disclosure arrows while preserving the global reveal control, and keeps selected Frequent duplicates gray in their original host.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.12-260901174556/Base-0.3.12-260901174556-macOS.zip" length="11518380" type="application/octet-stream" sparkle:edSignature="U+LhdFAbo27jCY5dssiG683NR2yEw018M8Xs4wL+pedXTtO6LTIrNaRuFJj1yr0OE7/WRhRkU5t5Z0MMksZhBg=="/>
-        </item>
-        <item>
-            <title>0.3.11</title>
-            <pubDate>Tue, 01 Sep 2026 16:47:10 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.11-260901163146</link>
-            <sparkle:version>260901163146</sparkle:version>
-            <sparkle:shortVersionString>0.3.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Restores iPad fleet connectivity on iPhone Personal Hotspot by restarting stale network routes immediately and bounding Tailscale health probes.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.11-260901163146/Base-0.3.11-260901163146-macOS.zip" length="11512000" type="application/octet-stream" sparkle:edSignature="LBT9lfPrir8udyQQXerd/XVPxbazNQFAUGP+vDH3iWS2IhlP5f0btmytTRlrvbw8fJWurMb/RRsYes3bBOykDQ=="/>
         </item>
     </channel>
 </rss>
