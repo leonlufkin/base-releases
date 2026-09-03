@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.20",
+          "buildVersion": "260902202732",
+          "date": "2026-09-02",
+          "localizedDescription": "Moves translucency behind Base's content. Foreground text, navigation, selection, dictation, and composer controls remain solid and plain; supported system themes use native thin material only as the pane backdrop. Super Dark and the disabled setting remain opaque.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.20-260902202732/Base-0.3.20-260902202732.ipa",
+          "size": 12756829,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.19",
           "buildVersion": "260902190405",
           "date": "2026-09-02",
@@ -186,15 +195,6 @@
           "localizedDescription": "Landscape on iPad is fixed: the app now declares every orientation, so iPadOS renders it full-width instead of letterboxing a portrait canvas between black bars.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260825155838/Base-0.3.3-260825155838.ipa",
           "size": 12382154,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.3",
-          "buildVersion": "260825151642",
-          "date": "2026-08-25",
-          "localizedDescription": "Sidebar can now be hidden on iPad (toggle in the chat header), a new Row spacing setting (Tight/Default/Roomy) on all platforms, and hosts you have never reached now show their names instead of raw IPs - daemons advertise fleet labels.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260825151642/Base-0.3.3-260825151642.ipa",
-          "size": 12382319,
           "minOSVersion": "18.0"
         }
       ],
