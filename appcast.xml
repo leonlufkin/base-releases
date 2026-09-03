@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.18</title>
+            <pubDate>Wed, 02 Sep 2026 17:23:17 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.18-260902171327</link>
+            <sparkle:version>260902171327</sparkle:version>
+            <sparkle:shortVersionString>0.3.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Liquid Glass controls now use visibly translucent clear native surfaces with a restrained adaptive contrast scrim across iPhone, iPad, and macOS. The Appearance toggle still restores the original flat controls.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.18-260902171327/Base-0.3.18-260902171327-macOS.zip" length="11550163" type="application/octet-stream" sparkle:edSignature="LLTiI3Vf63FEDJX74PmluEkmHbFjAFf7LX0JBqA5bIhf8kAahr2Uxtd5MUuLt2h/zSxpp/4dGrFLtrGzJj6tAA=="/>
+        </item>
+        <item>
             <title>0.3.17</title>
             <pubDate>Wed, 02 Sep 2026 04:37:41 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.17-260902042536</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Shows an honest disconnected widget state: neutral gray status geometry, normal segmented meters, and em-dash chat rows with no fake names, ages, or stale cached sessions.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.7-260828022144/Base-0.3.7-260828022144-macOS.zip" length="11512999" type="application/octet-stream" sparkle:edSignature="zi7hH0O1dzsXnibGZJ5lJBB4lyJswAQ7xokKugVNCdfMOenyUJP+n9CvmsEuJdbvksae1XhZotpTRPe3okTRCg=="/>
-        </item>
-        <item>
-            <title>0.3.6</title>
-            <pubDate>Fri, 28 Aug 2026 01:53:53 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.6-260828014226</link>
-            <sparkle:version>260828014226</sparkle:version>
-            <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Adds more breathing room above recent widget chats, dates recency from completed replies instead of in-flight activity, and removes the meaningless Apple badge from Codex headers.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.6-260828014226/Base-0.3.6-260828014226-macOS.zip" length="11512990" type="application/octet-stream" sparkle:edSignature="ixAPdQr1sbN+wIvOxTJqwkAAEquMQe2/hZbV8Y5a2Y8EnZDb//9M/fR2Q4NkWNDlaveTf3rGK0a3WG+qF259CQ=="/>
         </item>
     </channel>
 </rss>

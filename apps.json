@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.18",
+          "buildVersion": "260902171327",
+          "date": "2026-09-02",
+          "localizedDescription": "Liquid Glass controls now use visibly translucent clear native surfaces with a restrained adaptive contrast scrim across iPhone, iPad, and macOS. The Appearance toggle still restores the original flat controls.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.18-260902171327/Base-0.3.18-260902171327.ipa",
+          "size": 12782427,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.17",
           "buildVersion": "260902042536",
           "date": "2026-09-02",
@@ -186,15 +195,6 @@
           "localizedDescription": "iPad now gets a real iPadOS layout: a persistent session sidebar beside the open chat, Mac-style, instead of a stretched phone stack. Includes the week's efficiency and rendering work.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260825125518/Base-0.3.3-260825125518.ipa",
           "size": 12367539,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.3",
-          "buildVersion": "260822043040",
-          "date": "2026-08-22",
-          "localizedDescription": "Chats now render only their newest ~20k characters of scrollback instead of laying out megabytes of markdown per update — fat sessions stop feeling sluggish on both platforms. Older history stays on the daemon exactly as before.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260822043040/Base-0.3.3-260822043040.ipa",
-          "size": 12349362,
           "minOSVersion": "18.0"
         }
       ],
