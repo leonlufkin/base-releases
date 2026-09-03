@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.25",
+          "buildVersion": "260903012314",
+          "date": "2026-09-03",
+          "localizedDescription": "Fixes iOS send acknowledgement recovery and repeated rows, isolates /btw from the transcript cursor, and routes mobile dictation through the Mac mini Scribe service.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.25-260903012314/Base-0.3.25-260903012314.ipa",
+          "size": 12737588,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.23",
           "buildVersion": "260902214336",
           "date": "2026-09-02",
@@ -186,15 +195,6 @@
           "localizedDescription": "Adds a little breathing room above recent chats in the Base Status widget, renders complete OMP math during long tool turns, and clears finished OMP todo strips as soon as the live plan disappears.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.5-260828010203/Base-0.3.5-260828010203.ipa",
           "size": 12718124,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.4",
-          "buildVersion": "260827235916",
-          "date": "2026-08-28",
-          "localizedDescription": "Centers the small status widget, simplifies recent-chat ages to minutes, and restores SideStore-visible updates with a stable source identifier and marketing-version guard.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.4-260827235916/Base-0.3.4-260827235916.ipa",
-          "size": 12718186,
           "minOSVersion": "18.0"
         }
       ],

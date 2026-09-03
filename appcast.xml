@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.25</title>
+            <pubDate>Thu, 03 Sep 2026 01:38:03 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.25-260903012314</link>
+            <sparkle:version>260903012314</sparkle:version>
+            <sparkle:shortVersionString>0.3.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Fixes iOS send acknowledgement recovery and repeated rows, isolates /btw from the transcript cursor, and routes mobile dictation through the Mac mini Scribe service.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.25-260903012314/Base-0.3.25-260903012314-macOS.zip" length="11507411" type="application/octet-stream" sparkle:edSignature="sKVn6B0rRyC6P9xclrmqGMOOIi+4fCAA+Jj2yaWeiAtz692Mu1CutSfrPQo+LFPLYkoDmaO2sWH4yGC0iQTADw=="/>
+        </item>
+        <item>
             <title>0.3.23</title>
             <pubDate>Wed, 02 Sep 2026 22:02:33 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.23-260902214336</link>
@@ -109,18 +121,6 @@
             <description sparkle:format="plain-text"><![CDATA[Captures completed OMP /btw replies in Base transcripts, restores OpenCode SQLite parsing, and bottom-aligns hidden-chat disclosure controls.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.15-260901213005/Base-0.3.15-260901213005-macOS.zip" length="11519173" type="application/octet-stream" sparkle:edSignature="ArxZEHzLVHDiwYZXRQLDEuKxijC3cSbZJK/GOej9/cTSQEgF/3GPDHGC+vjLHg7F/D0K/Fdtu+kNjSQTb5VyAA=="/>
-        </item>
-        <item>
-            <title>0.3.14</title>
-            <pubDate>Tue, 01 Sep 2026 19:11:38 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.14-260901185839</link>
-            <sparkle:version>260901185839</sparkle:version>
-            <sparkle:shortVersionString>0.3.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Tucks each per-host hidden-chat arrow into that host’s final visible session row, eliminating all disclosure-only vertical space.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.14-260901185839/Base-0.3.14-260901185839-macOS.zip" length="11519175" type="application/octet-stream" sparkle:edSignature="sG1tgiqJWnhJjJFr/eJt8JEEdYe4BXlfwuP+vwlaqCHStBSrT/20qr6JKqrviC+8ycKcjdJ4yD2Vl/YRSqA+AA=="/>
         </item>
     </channel>
 </rss>
