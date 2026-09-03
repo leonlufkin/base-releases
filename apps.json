@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.23",
+          "buildVersion": "260902214336",
+          "date": "2026-09-02",
+          "localizedDescription": "Emergency Apple-client rollback to the field-verified 0.3.21 implementation after 0.3.22 regressions. Restores compact mode, GPU and token status, multi-window restart restoration, sharp SwiftMath output, and durable optimistic sent messages while retaining the daemon and deployment cleanup.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.23-260902214336/Base-0.3.23-260902214336.ipa",
+          "size": 12745824,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.22",
           "buildVersion": "260902211620",
           "date": "2026-09-02",
@@ -186,15 +195,6 @@
           "localizedDescription": "Centers the small status widget, simplifies recent-chat ages to minutes, and restores SideStore-visible updates with a stable source identifier and marketing-version guard.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.4-260827235916/Base-0.3.4-260827235916.ipa",
           "size": 12718186,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.3",
-          "buildVersion": "260827194722",
-          "date": "2026-08-27",
-          "localizedDescription": "Declutters the iPadOS status widget: removes the Base and Recent Chats headings, refresh timer, chat bullets, and horizontal separators; GPU dots now stack above token pressure.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.3-260827194722/Base-0.3.3-260827194722.ipa",
-          "size": 12714281,
           "minOSVersion": "18.0"
         }
       ],

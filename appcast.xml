@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.23</title>
+            <pubDate>Wed, 02 Sep 2026 22:02:33 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.23-260902214336</link>
+            <sparkle:version>260902214336</sparkle:version>
+            <sparkle:shortVersionString>0.3.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Emergency Apple-client rollback to the field-verified 0.3.21 implementation after 0.3.22 regressions. Restores compact mode, GPU and token status, multi-window restart restoration, sharp SwiftMath output, and durable optimistic sent messages while retaining the daemon and deployment cleanup.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.23-260902214336/Base-0.3.23-260902214336-macOS.zip" length="11518247" type="application/octet-stream" sparkle:edSignature="leBnRRuyt76/5Fp9KmfZcchQoc/CRh6Mf466lv/3Mpt58z00TmeCb+0KRSigfGyQpZUdYR0o9+UNcY/Jga8yDg=="/>
+        </item>
+        <item>
             <title>0.3.22</title>
             <pubDate>Wed, 02 Sep 2026 21:32:39 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.22-260902211620</link>
@@ -109,18 +121,6 @@
             <description sparkle:format="plain-text"><![CDATA[Tucks each per-host hidden-chat arrow into that host’s final visible session row, eliminating all disclosure-only vertical space.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.14-260901185839/Base-0.3.14-260901185839-macOS.zip" length="11519175" type="application/octet-stream" sparkle:edSignature="sG1tgiqJWnhJjJFr/eJt8JEEdYe4BXlfwuP+vwlaqCHStBSrT/20qr6JKqrviC+8ycKcjdJ4yD2Vl/YRSqA+AA=="/>
-        </item>
-        <item>
-            <title>0.3.13</title>
-            <pubDate>Tue, 01 Sep 2026 18:42:01 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.13-260901182732</link>
-            <sparkle:version>260901182732</sparkle:version>
-            <sparkle:shortVersionString>0.3.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Makes each per-host hidden-chat arrow compact and trailing-aligned, reclaiming sidebar space without changing its behavior.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.13-260901182732/Base-0.3.13-260901182732-macOS.zip" length="11519187" type="application/octet-stream" sparkle:edSignature="IYrw6fTi2yxzp1fbtfdBIu6dNM7sXFJnPWR6EtjWB1LzoKJPdUZcxcNZrtXmx+LLiuXnQF7YIY7RjZNXFgfiAw=="/>
         </item>
     </channel>
 </rss>
