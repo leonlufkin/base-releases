@@ -208,6 +208,103 @@
       }
     },
     {
+      "name": "Riad",
+      "bundleIdentifier": "com.leonlufkin.riad.ios",
+      "developerName": "Leon Lufkin",
+      "subtitle": "Your home server, services, and briefing.",
+      "localizedDescription": "Riad is the native client for the mini's private dashboard: service health, restarts, logs, the news digest, and the morning briefing.",
+      "iconURL": "https://raw.githubusercontent.com/leonlufkin/base-releases/main/Riad.png",
+      "tintColor": "#0088FF",
+      "category": "developer",
+      "versions": [
+        {
+          "version": "0.1.3",
+          "buildVersion": "260828030103",
+          "date": "2026-08-28",
+          "localizedDescription": "Winds in Marina: two-column medium, direction column dropped for space.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.3-260828030103/Riad-0.1.3-260828030103.ipa",
+          "size": 15462192,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.2",
+          "buildVersion": "260828024609",
+          "date": "2026-08-28",
+          "localizedDescription": "Winds in Marina: today's forecast from 8am and the next three days (large widget).",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.2-260828024609/Riad-0.1.2-260828024609.ipa",
+          "size": 15452594,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.1",
+          "buildVersion": "260827230937",
+          "date": "2026-08-27",
+          "localizedDescription": "Winds in Marina widget: mph, altitude rows, cleaner layout.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.1-260827230937/Riad-0.1.1-260827230937.ipa",
+          "size": 15404313,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
+          "buildVersion": "260827225357",
+          "date": "2026-08-27",
+          "localizedDescription": "Winds in Marina: mph, altitude rows, cleaner layout.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.0-260827225357/Riad-0.1.0-260827225357.ipa",
+          "size": 15404327,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
+          "buildVersion": "260827015915",
+          "date": "2026-08-27",
+          "localizedDescription": "Show the installed build in connection settings; KOAR winds widget.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.0-260827015915/Riad-0.1.0-260827015915.ipa",
+          "size": 15404484,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
+          "buildVersion": "260827013010",
+          "date": "2026-08-27",
+          "localizedDescription": "KOAR winds-aloft widget: surface, 925, 850, 700 hPa from GFS, home screen and Lock Screen families.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.0-260827013010/Riad-0.1.0-260827013010.ipa",
+          "size": 15403284,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
+          "buildVersion": "260825162004",
+          "date": "2026-08-25",
+          "localizedDescription": "Tighter oasis icon: palm cluster centered.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.0-260825162004/Riad-0.1.0-260825162004.ipa",
+          "size": 15309637,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
+          "buildVersion": "260825153052",
+          "date": "2026-08-25",
+          "localizedDescription": "Oasis app icon from the real photograph, replacing the glass glyph.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.0-260825153052/Riad-0.1.0-260825153052.ipa",
+          "size": 14815149,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
+          "buildVersion": "260824235309",
+          "date": "2026-08-24",
+          "localizedDescription": "First Riad release: Base-style minimal UI, briefing, news digests, service controls, and this update channel.",
+          "downloadURL": "https://github.com/leonlufkin/riad-releases/releases/download/v0.1.0-260824235309/Riad-0.1.0-260824235309.ipa",
+          "size": 17535451,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
       "bundleIdentifier": "com.leonlufkin.scribe",
       "versions": [
         {
