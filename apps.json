@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.33",
+          "buildVersion": "260903220625",
+          "date": "2026-09-03",
+          "localizedDescription": "Prevent stale /btw overlays from reappearing after daemon restarts. Add base create with automatic ownership, automatic sidebar hiding, rollback safety, and owner data in list output.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.33-260903220625/Base-0.3.33-260903220625.ipa",
+          "size": 12858285,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.26",
           "buildVersion": "260903152359",
           "date": "2026-09-03",
@@ -186,15 +195,6 @@
           "localizedDescription": "Shows an honest disconnected widget state: neutral gray status geometry, normal segmented meters, and em-dash chat rows with no fake names, ages, or stale cached sessions.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.7-260828022144/Base-0.3.7-260828022144.ipa",
           "size": 12735885,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.6",
-          "buildVersion": "260828014226",
-          "date": "2026-08-28",
-          "localizedDescription": "Adds more breathing room above recent widget chats, dates recency from completed replies instead of in-flight activity, and removes the meaningless Apple badge from Codex headers.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.6-260828014226/Base-0.3.6-260828014226.ipa",
-          "size": 12719012,
           "minOSVersion": "18.0"
         }
       ],
