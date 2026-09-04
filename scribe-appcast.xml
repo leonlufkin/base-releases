@@ -3,6 +3,18 @@
         <title>Scribe</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Fri, 04 Sep 2026 05:08:42 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260904050558</link>
+            <sparkle:version>260904050558</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Fix launch-time Sparkle loading while retaining the hardened runtime; keep the floating overlay opaque, shadowless, and grayscale.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/scribe-v0.1.0-260904050558/Scribe-0.1.0-260904050558-macOS.zip" length="4247916" type="application/octet-stream" sparkle:edSignature="RcnymFNtUgPrOyFPxR9q3iyHYRyajpewLM+eX+yn0IlaaCB/Zua5lvp0zJeH57iVwCVCV5wRXI2fJgTwW1aYBg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Fri, 04 Sep 2026 04:42:55 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260904044048</link>
             <sparkle:version>260904044048</sparkle:version>
