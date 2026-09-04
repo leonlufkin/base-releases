@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Scribe</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Fri, 04 Sep 2026 02:40:15 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260904023645</link>
+            <sparkle:version>260904023645</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Add signed automatic update checks and a Check for Updates menu to Scribe.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/scribe-v0.1.0-260904023645/Scribe-0.1.0-260904023645-macOS.zip" length="4248880" type="application/octet-stream" sparkle:edSignature="fiEMX61x/+F5mp4b+rily+cGYHh1zX5b9OD2WHPJ4ATYLxC4Rb6kxZroJUbeLk13eaeGS3iIxMG73yWNpqnJAg=="/>
+        </item>
+    </channel>
+</rss>
