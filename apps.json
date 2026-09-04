@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.36",
+          "buildVersion": "260904034531",
+          "date": "2026-09-04",
+          "localizedDescription": "Recovers Anthropic usage from healthy fleet peers and compacts the expanded 280-point sidebar so every GPU and token status fits.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.36-260904034531/Base-0.3.36-260904034531.ipa",
+          "size": 12875485,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.35",
           "buildVersion": "260904022142",
           "date": "2026-09-04",
@@ -186,15 +195,6 @@
           "localizedDescription": "Prefers healthy fleet usage reports over broken snapshots, improves on-device dictation quality and cleanup, and preserves structured Anthropic refusal status.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.10-260901150800/Base-0.3.10-260901150800.ipa",
           "size": 12731268,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.9",
-          "buildVersion": "260828230659",
-          "date": "2026-08-28",
-          "localizedDescription": "Shows normal replies in full by default, reserves disclosure controls for truly large or exceptionally dense math/table output, and doubles the rare bounded preview.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.9-260828230659/Base-0.3.9-260828230659.ipa",
-          "size": 12741428,
           "minOSVersion": "18.0"
         }
       ],

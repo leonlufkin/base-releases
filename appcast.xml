@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.36</title>
+            <pubDate>Fri, 04 Sep 2026 04:07:48 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.36-260904034531</link>
+            <sparkle:version>260904034531</sparkle:version>
+            <sparkle:shortVersionString>0.3.36</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Recovers Anthropic usage from healthy fleet peers and compacts the expanded 280-point sidebar so every GPU and token status fits.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.36-260904034531/Base-0.3.36-260904034531-macOS.zip" length="11657733" type="application/octet-stream" sparkle:edSignature="wkuUoCkEC46+zFjt5cxsCP4MKfQeuG/xSc5guYuhBChcFiTyXi8wt2rEqkhuxiwW7kqPiefv7bv4dCu4wU3EDQ=="/>
+        </item>
+        <item>
             <title>0.3.35</title>
             <pubDate>Fri, 04 Sep 2026 03:01:11 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.35-260904022142</link>
@@ -108,19 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Moves translucency behind Base's content. Foreground text, navigation, selection, dictation, and composer controls remain solid and plain; supported system themes use native thin material only as the pane backdrop. Super Dark and the disabled setting remain opaque.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.20-260902202732/Base-0.3.20-260902202732-macOS.zip" length="11533024" type="application/octet-stream" sparkle:edSignature="69S4PXEceATYAuofhP2B2rncUoGT5uBerreydo7y1+IIS294cTOiydLzmMwkj2KAW5Zb8v/PhCaZahEuDlvzBw=="/>
-        </item>
-        <item>
-            <title>0.3.19</title>
-            <pubDate>Wed, 02 Sep 2026 19:13:00 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.19-260902190405</link>
-            <sparkle:version>260902190405</sparkle:version>
-            <sparkle:shortVersionString>0.3.19</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:criticalUpdate sparkle:version="260902171327"/>
-            <description sparkle:format="plain-text"><![CDATA[Liquid Glass groups now use adaptive regular platters for readable contrast, while nested controls remain translucent and the primary action uses the system prominent style.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.19-260902190405/Base-0.3.19-260902190405-macOS.zip" length="11549394" type="application/octet-stream" sparkle:edSignature="ZywfY3WyJSvFgvMc3UAI6pdz0b0i8noW/TGn/EW7Vx4qIjzsZXy10ddgq0C55wiIuwLULBkOrrc5jt0dYjUqAg=="/>
         </item>
     </channel>
 </rss>
