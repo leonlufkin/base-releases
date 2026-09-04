@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.35</title>
+            <pubDate>Fri, 04 Sep 2026 03:01:11 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.35-260904022142</link>
+            <sparkle:version>260904022142</sparkle:version>
+            <sparkle:shortVersionString>0.3.35</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Stabilizes OMP working-state italics across redraws, fixes macOS ownership-graph arrows, assigns all GPC chats to HATT, and dismisses the iPhone/iPad keyboard before opening the graph.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.35-260904022142/Base-0.3.35-260904022142-macOS.zip" length="11654318" type="application/octet-stream" sparkle:edSignature="OLLSlzlIxD8dT8KZa1+LAOGxKIuryuvuyVmqt5b5e3OxkNOLPGtVfHt9T+A/rMD5E97Y0DcUYyIBav2WaZguDQ=="/>
+        </item>
+        <item>
             <title>0.3.34</title>
             <pubDate>Fri, 04 Sep 2026 00:19:55 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.34-260904000149</link>
@@ -109,18 +121,6 @@
             <description sparkle:format="plain-text"><![CDATA[Liquid Glass groups now use adaptive regular platters for readable contrast, while nested controls remain translucent and the primary action uses the system prominent style.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.19-260902190405/Base-0.3.19-260902190405-macOS.zip" length="11549394" type="application/octet-stream" sparkle:edSignature="ZywfY3WyJSvFgvMc3UAI6pdz0b0i8noW/TGn/EW7Vx4qIjzsZXy10ddgq0C55wiIuwLULBkOrrc5jt0dYjUqAg=="/>
-        </item>
-        <item>
-            <title>0.3.18</title>
-            <pubDate>Wed, 02 Sep 2026 17:23:17 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.18-260902171327</link>
-            <sparkle:version>260902171327</sparkle:version>
-            <sparkle:shortVersionString>0.3.18</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Liquid Glass controls now use visibly translucent clear native surfaces with a restrained adaptive contrast scrim across iPhone, iPad, and macOS. The Appearance toggle still restores the original flat controls.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.18-260902171327/Base-0.3.18-260902171327-macOS.zip" length="11550163" type="application/octet-stream" sparkle:edSignature="LLTiI3Vf63FEDJX74PmluEkmHbFjAFf7LX0JBqA5bIhf8kAahr2Uxtd5MUuLt2h/zSxpp/4dGrFLtrGzJj6tAA=="/>
         </item>
     </channel>
 </rss>

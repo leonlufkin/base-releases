@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.35",
+          "buildVersion": "260904022142",
+          "date": "2026-09-04",
+          "localizedDescription": "Stabilizes OMP working-state italics across redraws, fixes macOS ownership-graph arrows, assigns all GPC chats to HATT, and dismisses the iPhone/iPad keyboard before opening the graph.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.35-260904022142/Base-0.3.35-260904022142.ipa",
+          "size": 12867692,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.34",
           "buildVersion": "260904000149",
           "date": "2026-09-04",
@@ -186,15 +195,6 @@
           "localizedDescription": "Shows normal replies in full by default, reserves disclosure controls for truly large or exceptionally dense math/table output, and doubles the rare bounded preview.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.9-260828230659/Base-0.3.9-260828230659.ipa",
           "size": 12741428,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.8",
-          "buildVersion": "260828032608",
-          "date": "2026-08-28",
-          "localizedDescription": "Makes the widget connect independently before Base is opened by bootstrapping the full fleet and waiting for iOS to restore the Tailscale tunnel.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.8-260828032608/Base-0.3.8-260828032608.ipa",
-          "size": 12741337,
           "minOSVersion": "18.0"
         }
       ],
