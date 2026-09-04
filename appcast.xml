@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.37</title>
+            <pubDate>Fri, 04 Sep 2026 04:36:48 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.37-260904041536</link>
+            <sparkle:version>260904041536</sparkle:version>
+            <sparkle:shortVersionString>0.3.37</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Keeps hidden owned sessions and their edges visible in the ownership graph while ordinary session navigation stays filtered.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.37-260904041536/Base-0.3.37-260904041536-macOS.zip" length="11656135" type="application/octet-stream" sparkle:edSignature="LzSs2tKjVGckeu9Gj+lCCD6nOw0/YsONBHAvuZyP3/szYJg2HXljM/Awp1zKCp+xaC7zfALpQ/7uayR/OzBEAg=="/>
+        </item>
+        <item>
             <title>0.3.36</title>
             <pubDate>Fri, 04 Sep 2026 04:07:48 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.36-260904034531</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Keeps translucency behind Base's content while foreground controls remain solid. Long and structurally dense transcript rows now render fully without per-message Show full message controls. Mac Shift-Return inserts exactly one newline; Return still sends. The existing hard payload cap and render fence remain in place.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.21-260902204748/Base-0.3.21-260902204748-macOS.zip" length="11518307" type="application/octet-stream" sparkle:edSignature="9FqoHtkW2ivJWpCa5ZopzrRhrRPdOKVHDaW5NsBXI25qU6d+J8gE0+OHWJcozvnqD3aj8MS751djmFf1cqDzAw=="/>
-        </item>
-        <item>
-            <title>0.3.20</title>
-            <pubDate>Wed, 02 Sep 2026 20:36:26 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.20-260902202732</link>
-            <sparkle:version>260902202732</sparkle:version>
-            <sparkle:shortVersionString>0.3.20</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Moves translucency behind Base's content. Foreground text, navigation, selection, dictation, and composer controls remain solid and plain; supported system themes use native thin material only as the pane backdrop. Super Dark and the disabled setting remain opaque.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.20-260902202732/Base-0.3.20-260902202732-macOS.zip" length="11533024" type="application/octet-stream" sparkle:edSignature="69S4PXEceATYAuofhP2B2rncUoGT5uBerreydo7y1+IIS294cTOiydLzmMwkj2KAW5Zb8v/PhCaZahEuDlvzBw=="/>
         </item>
     </channel>
 </rss>

@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.37",
+          "buildVersion": "260904041536",
+          "date": "2026-09-04",
+          "localizedDescription": "Keeps hidden owned sessions and their edges visible in the ownership graph while ordinary session navigation stays filtered.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.37-260904041536/Base-0.3.37-260904041536.ipa",
+          "size": 12875453,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.36",
           "buildVersion": "260904034531",
           "date": "2026-09-04",
@@ -186,15 +195,6 @@
           "localizedDescription": "Restores iPad fleet connectivity on iPhone Personal Hotspot by restarting stale network routes immediately and bounding Tailscale health probes.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.11-260901163146/Base-0.3.11-260901163146.ipa",
           "size": 12738157,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.10",
-          "buildVersion": "260901150800",
-          "date": "2026-09-01",
-          "localizedDescription": "Prefers healthy fleet usage reports over broken snapshots, improves on-device dictation quality and cleanup, and preserves structured Anthropic refusal status.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.10-260901150800/Base-0.3.10-260901150800.ipa",
-          "size": 12731268,
           "minOSVersion": "18.0"
         }
       ],
