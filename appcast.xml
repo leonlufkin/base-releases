@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.38</title>
+            <pubDate>Fri, 04 Sep 2026 05:49:05 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.38-260904052459</link>
+            <sparkle:version>260904052459</sparkle:version>
+            <sparkle:shortVersionString>0.3.38</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Restores graph state and ancestry, queued-message italics, Command-G graph toggling and highlight, programmable Tab insertion, and complete GPU power disclosure.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.38-260904052459/Base-0.3.38-260904052459-macOS.zip" length="11681582" type="application/octet-stream" sparkle:edSignature="qow08QdvKKK5t+w5/8+/fH5VKqyAJiJ2uz7DVnJhJB5nh6OAACilxXmxsXvJm58NcByWO/9c6Kg3h+z6l40VAg=="/>
+        </item>
+        <item>
             <title>0.3.37</title>
             <pubDate>Fri, 04 Sep 2026 04:36:48 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.37-260904041536</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Integrates the validated cleanup branch: full daemon/API security and lifecycle cleanup, bounded transcript caches, fixed Shift-Return insertion, complete long-message display up to the hard safety cap, and translucency limited to Base's background while foreground controls remain solid.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.22-260902211620/Base-0.3.22-260902211620-macOS.zip" length="11609460" type="application/octet-stream" sparkle:edSignature="Tm2TjPKggs42CbHPlr5PLxwDaY21ytrnhH/oWZIxcGXg0tApmJxP8jAtYBqqjaYKfP/I15oMp2FG7/t21MUaCQ=="/>
-        </item>
-        <item>
-            <title>0.3.21</title>
-            <pubDate>Wed, 02 Sep 2026 20:57:25 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.21-260902204748</link>
-            <sparkle:version>260902204748</sparkle:version>
-            <sparkle:shortVersionString>0.3.21</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Keeps translucency behind Base's content while foreground controls remain solid. Long and structurally dense transcript rows now render fully without per-message Show full message controls. Mac Shift-Return inserts exactly one newline; Return still sends. The existing hard payload cap and render fence remain in place.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.21-260902204748/Base-0.3.21-260902204748-macOS.zip" length="11518307" type="application/octet-stream" sparkle:edSignature="9FqoHtkW2ivJWpCa5ZopzrRhrRPdOKVHDaW5NsBXI25qU6d+J8gE0+OHWJcozvnqD3aj8MS751djmFf1cqDzAw=="/>
         </item>
     </channel>
 </rss>

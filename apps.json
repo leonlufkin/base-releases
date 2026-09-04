@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.38",
+          "buildVersion": "260904052459",
+          "date": "2026-09-04",
+          "localizedDescription": "Restores graph state and ancestry, queued-message italics, Command-G graph toggling and highlight, programmable Tab insertion, and complete GPU power disclosure.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.38-260904052459/Base-0.3.38-260904052459.ipa",
+          "size": 12890623,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.37",
           "buildVersion": "260904041536",
           "date": "2026-09-04",
@@ -186,15 +195,6 @@
           "localizedDescription": "Adds per-host hidden-chat disclosure arrows while preserving the global reveal control, and keeps selected Frequent duplicates gray in their original host.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.12-260901174556/Base-0.3.12-260901174556.ipa",
           "size": 12749822,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.11",
-          "buildVersion": "260901163146",
-          "date": "2026-09-01",
-          "localizedDescription": "Restores iPad fleet connectivity on iPhone Personal Hotspot by restarting stale network routes immediately and bounding Tailscale health probes.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.11-260901163146/Base-0.3.11-260901163146.ipa",
-          "size": 12738157,
           "minOSVersion": "18.0"
         }
       ],
