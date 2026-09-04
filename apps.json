@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.34",
+          "buildVersion": "260904000149",
+          "date": "2026-09-04",
+          "localizedDescription": "Make iPad connection recovery independent of Tailscale path callbacks: retry failed routes on foreground activation, use fresh health and SSE sessions, and cap visible retry backoff at eight seconds.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.34-260904000149/Base-0.3.34-260904000149.ipa",
+          "size": 12860226,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.33",
           "buildVersion": "260903220625",
           "date": "2026-09-03",
@@ -186,15 +195,6 @@
           "localizedDescription": "Makes the widget connect independently before Base is opened by bootstrapping the full fleet and waiting for iOS to restore the Tailscale tunnel.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.8-260828032608/Base-0.3.8-260828032608.ipa",
           "size": 12741337,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.7",
-          "buildVersion": "260828022144",
-          "date": "2026-08-28",
-          "localizedDescription": "Shows an honest disconnected widget state: neutral gray status geometry, normal segmented meters, and em-dash chat rows with no fake names, ages, or stale cached sessions.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.7-260828022144/Base-0.3.7-260828022144.ipa",
-          "size": 12735885,
           "minOSVersion": "18.0"
         }
       ],
