@@ -3,6 +3,18 @@
         <title>Scribe</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Fri, 04 Sep 2026 20:38:50 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260904203630</link>
+            <sparkle:version>260904203630</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Replace the discrete speech history with a continuously rendered ten-bar waveform, then crossfade directly to processing dots inside one fixed pill when Fn is released.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/scribe-v0.1.0-260904203630/Scribe-0.1.0-260904203630-macOS.zip" length="4251050" type="application/octet-stream" sparkle:edSignature="ilgYrAsue9KZaEBHE1Q/dF7PtdiGV/a2H9uerbEh73jx+4jq/O162kEvhxsqykVTNmw498IzUtARvfVqKlhFBA=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Fri, 04 Sep 2026 05:26:05 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260904052340</link>
             <sparkle:version>260904052340</sparkle:version>
