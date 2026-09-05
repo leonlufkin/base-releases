@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.39",
+          "buildVersion": "260904211859",
+          "date": "2026-09-04",
+          "localizedDescription": "Add the opt-in Fn/Globe dictation control, keep graph-opened hidden chats transient in the sidebar, and recognize Astra OMP sessions.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.39-260904211859/Base-0.3.39-260904211859.ipa",
+          "size": 12891163,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.38",
           "buildVersion": "260904052459",
           "date": "2026-09-04",
@@ -186,15 +195,6 @@
           "localizedDescription": "Makes each per-host hidden-chat arrow compact and trailing-aligned, reclaiming sidebar space without changing its behavior.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.13-260901182732/Base-0.3.13-260901182732.ipa",
           "size": 12750942,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.12",
-          "buildVersion": "260901174556",
-          "date": "2026-09-01",
-          "localizedDescription": "Adds per-host hidden-chat disclosure arrows while preserving the global reveal control, and keeps selected Frequent duplicates gray in their original host.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.12-260901174556/Base-0.3.12-260901174556.ipa",
-          "size": 12749822,
           "minOSVersion": "18.0"
         }
       ],

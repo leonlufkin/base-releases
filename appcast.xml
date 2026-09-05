@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.39</title>
+            <pubDate>Fri, 04 Sep 2026 21:47:57 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.39-260904211859</link>
+            <sparkle:version>260904211859</sparkle:version>
+            <sparkle:shortVersionString>0.3.39</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Add the opt-in Fn/Globe dictation control, keep graph-opened hidden chats transient in the sidebar, and recognize Astra OMP sessions.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.39-260904211859/Base-0.3.39-260904211859-macOS.zip" length="11687356" type="application/octet-stream" sparkle:edSignature="uKaSMRUAoPHkMgen3KVidcCV0u84dJAzCkzJFehA4QSdswCD7aT7Z7oIjoZg3DF3OzFc5zN4g0lmAIDIr7VgDQ=="/>
+        </item>
+        <item>
             <title>0.3.38</title>
             <pubDate>Fri, 04 Sep 2026 05:49:05 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.38-260904052459</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Emergency Apple-client rollback to the field-verified 0.3.21 implementation after 0.3.22 regressions. Restores compact mode, GPU and token status, multi-window restart restoration, sharp SwiftMath output, and durable optimistic sent messages while retaining the daemon and deployment cleanup.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.23-260902214336/Base-0.3.23-260902214336-macOS.zip" length="11518247" type="application/octet-stream" sparkle:edSignature="leBnRRuyt76/5Fp9KmfZcchQoc/CRh6Mf466lv/3Mpt58z00TmeCb+0KRSigfGyQpZUdYR0o9+UNcY/Jga8yDg=="/>
-        </item>
-        <item>
-            <title>0.3.22</title>
-            <pubDate>Wed, 02 Sep 2026 21:32:39 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.22-260902211620</link>
-            <sparkle:version>260902211620</sparkle:version>
-            <sparkle:shortVersionString>0.3.22</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Integrates the validated cleanup branch: full daemon/API security and lifecycle cleanup, bounded transcript caches, fixed Shift-Return insertion, complete long-message display up to the hard safety cap, and translucency limited to Base's background while foreground controls remain solid.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.22-260902211620/Base-0.3.22-260902211620-macOS.zip" length="11609460" type="application/octet-stream" sparkle:edSignature="Tm2TjPKggs42CbHPlr5PLxwDaY21ytrnhH/oWZIxcGXg0tApmJxP8jAtYBqqjaYKfP/I15oMp2FG7/t21MUaCQ=="/>
         </item>
     </channel>
 </rss>
