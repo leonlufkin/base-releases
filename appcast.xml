@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.40</title>
+            <pubDate>Sat, 05 Sep 2026 01:04:58 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.40-260905004240</link>
+            <sparkle:version>260905004240</sparkle:version>
+            <sparkle:shortVersionString>0.3.40</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Ownership graphs now show same-parent siblings alongside the selected chat and each visible ancestor level, including hidden and offline sessions across hosts. Only the selected chat's descendant subtree expands. On macOS, opening the graph or changing focus centers the selected card, while fleet refreshes preserve manual panning. Hidden-session navigation remains transient and window-local.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.40-260905004240/Base-0.3.40-260905004240-macOS.zip" length="11691574" type="application/octet-stream" sparkle:edSignature="NflITZfNfo+5jKFElQz9fO0wU1sOsqy8G9Iui6QELfopZOWdU0lVEJoyn9ik8cDrI+aUIo4mVR1K+MXNlr97Bw=="/>
+        </item>
+        <item>
             <title>0.3.39</title>
             <pubDate>Fri, 04 Sep 2026 21:47:57 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.39-260904211859</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Fixes iOS send acknowledgement recovery and repeated rows, isolates /btw from the transcript cursor, and routes mobile dictation through the Mac mini Scribe service.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.25-260903012314/Base-0.3.25-260903012314-macOS.zip" length="11507411" type="application/octet-stream" sparkle:edSignature="sKVn6B0rRyC6P9xclrmqGMOOIi+4fCAA+Jj2yaWeiAtz692Mu1CutSfrPQo+LFPLYkoDmaO2sWH4yGC0iQTADw=="/>
-        </item>
-        <item>
-            <title>0.3.23</title>
-            <pubDate>Wed, 02 Sep 2026 22:02:33 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.23-260902214336</link>
-            <sparkle:version>260902214336</sparkle:version>
-            <sparkle:shortVersionString>0.3.23</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Emergency Apple-client rollback to the field-verified 0.3.21 implementation after 0.3.22 regressions. Restores compact mode, GPU and token status, multi-window restart restoration, sharp SwiftMath output, and durable optimistic sent messages while retaining the daemon and deployment cleanup.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.23-260902214336/Base-0.3.23-260902214336-macOS.zip" length="11518247" type="application/octet-stream" sparkle:edSignature="leBnRRuyt76/5Fp9KmfZcchQoc/CRh6Mf466lv/3Mpt58z00TmeCb+0KRSigfGyQpZUdYR0o9+UNcY/Jga8yDg=="/>
         </item>
     </channel>
 </rss>

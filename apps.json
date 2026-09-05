@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.40",
+          "buildVersion": "260905004240",
+          "date": "2026-09-05",
+          "localizedDescription": "Ownership graphs now show same-parent siblings alongside the selected chat and each visible ancestor level, including hidden and offline sessions across hosts. Only the selected chat's descendant subtree expands. On macOS, opening the graph or changing focus centers the selected card, while fleet refreshes preserve manual panning. Hidden-session navigation remains transient and window-local.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.40-260905004240/Base-0.3.40-260905004240.ipa",
+          "size": 12888448,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.39",
           "buildVersion": "260904211859",
           "date": "2026-09-04",
@@ -186,15 +195,6 @@
           "localizedDescription": "Tucks each per-host hidden-chat arrow into that host’s final visible session row, eliminating all disclosure-only vertical space.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.14-260901185839/Base-0.3.14-260901185839.ipa",
           "size": 12753741,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.13",
-          "buildVersion": "260901182732",
-          "date": "2026-09-01",
-          "localizedDescription": "Makes each per-host hidden-chat arrow compact and trailing-aligned, reclaiming sidebar space without changing its behavior.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.13-260901182732/Base-0.3.13-260901182732.ipa",
-          "size": 12750942,
           "minOSVersion": "18.0"
         }
       ],
