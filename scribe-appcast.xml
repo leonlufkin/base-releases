@@ -3,6 +3,18 @@
         <title>Scribe</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Sun, 06 Sep 2026 02:57:16 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260906025522</link>
+            <sparkle:version>260906025522</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Add Vocabulary: a persisted glossary of words and phrases (menu → Vocabulary…) that Whisper conditions on as prior text, so terms like tmux session are spelled correctly. Prompt-aware decoder budgets keep long dictations complete, and live partial text never includes the glossary.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/scribe-v0.1.0-260906025522/Scribe-0.1.0-260906025522-macOS.zip" length="4263334" type="application/octet-stream" sparkle:edSignature="Kmb2K5298/8vCDFot5KuEbEh8LIJ7j3SR0xMUHgXgOK0g05FyzJCb6gOEtvv34WlYBikpyLNZgJewFwQtEitAg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Fri, 04 Sep 2026 21:04:29 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260904210047</link>
             <sparkle:version>260904210047</sparkle:version>
