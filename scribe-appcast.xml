@@ -3,6 +3,18 @@
         <title>Scribe</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Sun, 06 Sep 2026 03:48:18 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260906034620</link>
+            <sparkle:version>260906034620</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Fix one-word dictations: chunks shorter than two seconds are zero-padded so WhisperKit opens a decode window; a one-second recording previously produced no transcript and fell through every retry into the slow fallback-model attempts.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/scribe-v0.1.0-260906034620/Scribe-0.1.0-260906034620-macOS.zip" length="4264097" type="application/octet-stream" sparkle:edSignature="HPRi0GTDdxR2gjYCpF4CWm3YQw8KJOkNf9Urv/5smIQ9OygKu5Nk0laOyZ9YZiJA8m6HlWyflK8aoHrGqgx9Dw=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Sun, 06 Sep 2026 02:57:16 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260906025522</link>
             <sparkle:version>260906025522</sparkle:version>
