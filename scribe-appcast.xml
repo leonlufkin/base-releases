@@ -3,6 +3,18 @@
         <title>Scribe</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Sun, 06 Sep 2026 12:37:16 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260906123452</link>
+            <sparkle:version>260906123452</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Fix a whole-app freeze: AVAudioEngine start and stop now run off the main actor with a six-second start deadline. A hung coreaudiod query (observed inside inputNode sub-device enumeration on the Work MacBook Pro) now fails the dictation with an error instead of freezing the menu bar item, hotkey, and HTTP service; a late-returning engine is torn down.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/scribe-v0.1.0-260906123452/Scribe-0.1.0-260906123452-macOS.zip" length="4274220" type="application/octet-stream" sparkle:edSignature="DUG/+0l9W877Fsre0usp/t7dERz8IDdhxfTbINxQQWWei65gzltdJ43lWLv7t38MjKlj40V0kCAv9WS1gbG8DA=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Sun, 06 Sep 2026 03:48:18 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260906034620</link>
             <sparkle:version>260906034620</sparkle:version>
