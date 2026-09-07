@@ -3,6 +3,28 @@
         <title>Scribe</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Mon, 07 Sep 2026 16:43:39 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260907161051</link>
+            <sparkle:version>260907161051</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Scribe now includes its English speech model and works on a fresh Mac without Homebrew, Python, Hugging Face, Tailscale, or an account. Audio stays on your Mac. Existing model choices and vocabulary are preserved.
+
+Install: download the macOS ZIP below, unzip it, move Scribe.app into Applications, and open it. Allow Microphone and Accessibility in the on-screen setup.
+
+This personal build is not Apple-notarized. If macOS blocks opening it, use System Settings → Privacy & Security → Open Anyway after attempting to open Scribe. No Terminal command or system-wide security change is required.
+
+To dictate, hold Fn/Globe while speaking and release. Set the macOS Press fn key to action to Do Nothing as directed in Setup.
+
+On first launch, Scribe prepares the included model in the background before timed decoding begins. This can be slower the first time; subsequent dictations reuse macOS model compilation caches.
+
+Requires an Apple Silicon Mac running macOS 14 or later. Includes the English Whisper small.en model and tokenizer for offline dictation; no separate model download is needed.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/scribe-v0.1.0-260907161051/Scribe-0.1.0-260907161051-macOS.zip" length="449482754" type="application/octet-stream" sparkle:edSignature="uMxLcl+bh5MEoZ8k50+YilwoLUnv7oA8GjZU37P0CJggN926rW6xYnPBAWmAVxx75z+Ki25+jK1Jub3/F2hfDg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Mon, 07 Sep 2026 02:37:08 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260907023405</link>
             <sparkle:version>260907023405</sparkle:version>
@@ -108,18 +130,6 @@
             <description sparkle:format="plain-text"><![CDATA[Remove the rectangular activity-bar shadow and material tint; render every floating Scribe surface with an opaque grayscale theme.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/scribe-v0.1.0-260904044048/Scribe-0.1.0-260904044048-macOS.zip" length="4248006" type="application/octet-stream" sparkle:edSignature="eMU0O75BFDuiSj+OqHS+NhO+QGdyYxNwkQoaqoA2VleTgkxnUkH1RH6o+b5r9MjKdc7QPgN55AbDf2K/zWg1DA=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Fri, 04 Sep 2026 03:29:31 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260904032733</link>
-            <sparkle:version>260904032733</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Keep Spotlight-opened Setup on the active desktop and restore selectable Core Audio microphone inputs on MacBook Pro.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/scribe-v0.1.0-260904032733/Scribe-0.1.0-260904032733-macOS.zip" length="4250585" type="application/octet-stream" sparkle:edSignature="qUhc+ke7f1mZOkuWJajVxpUl47YmInD60qqpnEZpBh7EkKPbGWQHQwFLcDukf8pPCCJ2YfPkklWBYBGRhNFqDQ=="/>
         </item>
     </channel>
 </rss>
