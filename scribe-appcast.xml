@@ -3,6 +3,18 @@
         <title>Scribe</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Mon, 07 Sep 2026 02:37:08 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260907023405</link>
+            <sparkle:version>260907023405</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Fix invalid microphone selection while Settings and Vocabulary redraw before device discovery completes. The picker now uses a currently available input without overwriting the saved microphone UID or changing vocabulary terms.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/scribe-v0.1.0-260907023405/Scribe-0.1.0-260907023405-macOS.zip" length="4274377" type="application/octet-stream" sparkle:edSignature="7BboYwkKxmZhKRfVOwi+2eGQ9HpAYMjsT+mjx7igZx7Jggvq1TeOwl0zRsDeGaLUPQy7CfLmw4LTgKarzmFjAA=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Sun, 06 Sep 2026 12:37:16 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260906123452</link>
             <sparkle:version>260906123452</sparkle:version>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Keep Spotlight-opened Setup on the active desktop and restore selectable Core Audio microphone inputs on MacBook Pro.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/scribe-v0.1.0-260904032733/Scribe-0.1.0-260904032733-macOS.zip" length="4250585" type="application/octet-stream" sparkle:edSignature="qUhc+ke7f1mZOkuWJajVxpUl47YmInD60qqpnEZpBh7EkKPbGWQHQwFLcDukf8pPCCJ2YfPkklWBYBGRhNFqDQ=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Fri, 04 Sep 2026 02:40:15 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260904023645</link>
-            <sparkle:version>260904023645</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Add signed automatic update checks and a Check for Updates menu to Scribe.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/scribe-v0.1.0-260904023645/Scribe-0.1.0-260904023645-macOS.zip" length="4248880" type="application/octet-stream" sparkle:edSignature="fiEMX61x/+F5mp4b+rily+cGYHh1zX5b9OD2WHPJ4ATYLxC4Rb6kxZroJUbeLk13eaeGS3iIxMG73yWNpqnJAg=="/>
         </item>
     </channel>
 </rss>
