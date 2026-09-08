@@ -3,20 +3,6 @@
         <title>Scribe</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Mon, 07 Sep 2026 19:05:42 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260907185450</link>
-            <sparkle:version>260907185450</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Fix cancellation of dictation requests waiting behind a busy decoder or initial model preparation. Setup now distinguishes loading from ready, and saved dictation recovery waits for model preparation to finish.
-
-Requires an Apple Silicon Mac running macOS 14 or later. Includes the English Whisper small.en model and tokenizer for offline dictation; no separate model download is needed.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/scribe-v0.1.0-260907185450/Scribe-0.1.0-260907185450-macOS.zip" length="449485725" type="application/octet-stream" sparkle:edSignature="Qu76Hnnd41IRdLhtz2mPrbHiumsJL5KTTl1v6xnr/Q6mfealyE0+mG6d5NCquCNLHHkfIPHO2CjtwqoiL3JoDg=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
             <pubDate>Mon, 07 Sep 2026 16:43:39 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260907161051</link>
             <sparkle:version>260907161051</sparkle:version>
