@@ -3,6 +3,26 @@
         <title>Scribe</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Tue, 08 Sep 2026 19:39:00 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260909022958</link>
+            <sparkle:version>260909022958</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Fix long dictation losing middle words: preserve separately spoken repetitions, deduplicate only word-aligned copies of the same audio, and finish delivering accepted microphone buffers before closing the recording journal. Final text now comes from completed decoder results rather than a longer provisional preview.
+
+Remove the automatically seeded vocabulary prompt, which could repeat a phrase and omit the ending. No glossary is applied unless you save one; existing saved vocabulary, model selection, microphone settings, and recordings are preserved.
+
+Ambiguous boundaries are retained rather than deleted, so a boundary phrase can be repeated. This was observed with an existing saved glossary; the update does not reset that glossary.
+
+Includes the English Whisper small.en model and tokenizer for offline dictation. Requires an Apple Silicon Mac running macOS 14 or later.
+
+Install: unzip Scribe.app, move it to Applications, and open it. This personal build is ad-hoc signed, not Apple-notarized. If macOS blocks it, use System Settings → Privacy & Security → Open Anyway after attempting to open the app; no system-wide security change is required.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/scribe-v0.1.0-260909022958/Scribe-0.1.0-260909022958-macOS.zip" length="449483549" type="application/octet-stream" sparkle:edSignature="RKhe7ywbBR5x32QD7CSF32sVjPZReSRnQSscVqr1aAKqdQr9Fu0AWFKaH7+gxCKx03F9XTjmrVi4UCosTkTsBA=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Mon, 07 Sep 2026 16:43:39 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/scribe-v0.1.0-260907161051</link>
             <sparkle:version>260907161051</sparkle:version>
