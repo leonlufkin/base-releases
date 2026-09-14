@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.56</title>
+            <pubDate>Sun, 13 Sep 2026 17:10:37 -0700</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.56-260913234436</link>
+            <sparkle:version>260913234436</sparkle:version>
+            <sparkle:shortVersionString>0.3.56</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Preserves pending input and uncertain receipts without replay. Pending messages remain italic until context acknowledgement, with delivery details available only on demand. Includes cross-client submission fixes, faster OMP journal receipt scans, and restored iOS private-tailnet routing while preserving native authorization and exact receipt validation.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.56-260913234436/Base-0.3.56-260913234436-macOS.zip" length="12029380" type="application/octet-stream" sparkle:edSignature="tqFRKo4qI6zZjkJYWYMaelxdCNAyTlMgQKgfFlhEaBQAxuZLtadRn9lU7BVuel9+Y+SHKMxCnHJCF35oqPF6Ag=="/>
+        </item>
+        <item>
             <title>0.3.40</title>
             <pubDate>Sat, 05 Sep 2026 01:04:58 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.40-260905004240</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Preserve Hatt activity timestamps, keep Base hosts distinct by raw daemon identity, repair stale iPhone fleet seeds, and make macOS daemon installation machine-aware.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.26-260903152359/Base-0.3.26-260903152359-macOS.zip" length="11515483" type="application/octet-stream" sparkle:edSignature="mFu13rHR6znkkbcgN7VfLmfXauyHFqfq0+Z3jYT1T1WvEtJgNAzpvz884w7ZAWe4zVxe5w8ceGHfWCpw7d+RBg=="/>
-        </item>
-        <item>
-            <title>0.3.25</title>
-            <pubDate>Thu, 03 Sep 2026 01:38:03 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.25-260903012314</link>
-            <sparkle:version>260903012314</sparkle:version>
-            <sparkle:shortVersionString>0.3.25</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Fixes iOS send acknowledgement recovery and repeated rows, isolates /btw from the transcript cursor, and routes mobile dictation through the Mac mini Scribe service.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.25-260903012314/Base-0.3.25-260903012314-macOS.zip" length="11507411" type="application/octet-stream" sparkle:edSignature="sKVn6B0rRyC6P9xclrmqGMOOIi+4fCAA+Jj2yaWeiAtz692Mu1CutSfrPQo+LFPLYkoDmaO2sWH4yGC0iQTADw=="/>
         </item>
     </channel>
 </rss>

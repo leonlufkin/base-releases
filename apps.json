@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.56",
+          "buildVersion": "260913234436",
+          "date": "2026-09-13",
+          "localizedDescription": "Preserves pending input and uncertain receipts without replay. Pending messages remain italic until context acknowledgement, with delivery details available only on demand. Includes cross-client submission fixes, faster OMP journal receipt scans, and restored iOS private-tailnet routing while preserving native authorization and exact receipt validation.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.56-260913234436/Base-0.3.56-260913234436.ipa",
+          "size": 18865268,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.40",
           "buildVersion": "260905004240",
           "date": "2026-09-05",
@@ -187,15 +196,6 @@
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.15-260901213005/Base-0.3.15-260901213005.ipa",
           "size": 12753276,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.14",
-          "buildVersion": "260901185839",
-          "date": "2026-09-01",
-          "localizedDescription": "Tucks each per-host hidden-chat arrow into that host’s final visible session row, eliminating all disclosure-only vertical space.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.14-260901185839/Base-0.3.14-260901185839.ipa",
-          "size": 12753741,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -203,6 +203,7 @@
           "com.apple.security.application-groups"
         ],
         "privacy": {
+          "NSLocalNetworkUsageDescription": "Base uses your local network to establish encrypted connections to your private Tailscale devices.",
           "NSMicrophoneUsageDescription": "Base records audio for dictation and transcribes it on your Mac Mini when available or on this device."
         }
       }
