@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.66</title>
+            <pubDate>Sat, 07 Nov 2026 17:32:15 -0800</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.66-261107152800</link>
+            <sparkle:version>261107152800</sparkle:version>
+            <sparkle:shortVersionString>0.3.66</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Obsidian-backed notes and Markdown task workflows; unread transcript prefetch before opening chats; retained-conversation and stopped-session sidebar fixes. This macOS app release uses Base’s existing Sparkle updater and preserves chat-window restoration. CLI, daemon, and native-runner updates are provided as separate runtime assets; Sparkle installs the app only. The iOS feed is unchanged.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.66-261107152800/Base-0.3.66-261107152800-macOS.zip" length="12545645" type="application/octet-stream" sparkle:edSignature="rXzvScFzKKbLOZ/Sy362Bb7hhuxP3TfFx2StrlgFEAKG7xYbnv8Jrbl3yeRe3rIKBxfmvOQQGwALn1OmtkMgCg=="/>
+        </item>
+        <item>
             <title>0.3.56</title>
             <pubDate>Sun, 13 Sep 2026 17:10:37 -0700</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.56-260913234436</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Prevent stale /btw overlays from reappearing after daemon restarts. Add base create with automatic ownership, automatic sidebar hiding, rollback safety, and owner data in list output.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.33-260903220625/Base-0.3.33-260903220625-macOS.zip" length="11647007" type="application/octet-stream" sparkle:edSignature="Q7/4jIifsZaW81FeRS69drdZg5a60ufPqpXK90tWr9OUSjll+Bs7GJLYJWu8HXy0vtR42HtspTvF9p1GoGs/BQ=="/>
-        </item>
-        <item>
-            <title>0.3.26</title>
-            <pubDate>Thu, 03 Sep 2026 15:39:23 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.26-260903152359</link>
-            <sparkle:version>260903152359</sparkle:version>
-            <sparkle:shortVersionString>0.3.26</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Preserve Hatt activity timestamps, keep Base hosts distinct by raw daemon identity, repair stale iPhone fleet seeds, and make macOS daemon installation machine-aware.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.26-260903152359/Base-0.3.26-260903152359-macOS.zip" length="11515483" type="application/octet-stream" sparkle:edSignature="mFu13rHR6znkkbcgN7VfLmfXauyHFqfq0+Z3jYT1T1WvEtJgNAzpvz884w7ZAWe4zVxe5w8ceGHfWCpw7d+RBg=="/>
         </item>
     </channel>
 </rss>
