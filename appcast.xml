@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.69</title>
+            <pubDate>Sun, 08 Nov 2026 23:32:36 -0800</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.69-261108232621</link>
+            <sparkle:version>261108232621</sparkle:version>
+            <sparkle:shortVersionString>0.3.69</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Removes automatic Base credential prompts. The Mac app once configures its existing private local runtime for trusted-network native actions without restarting the daemon or agent sessions. Keychain reads cannot authenticate interactively; CLI commands no longer collect passwords from the terminal. Network/origin checks and scoped-agent permissions remain enforced. Deliberately strict runtime administration retains explicit credential-fd support. Sparkle installs Base.app only; CLI, daemon, and runner binaries are separate assets.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.69-261108232621/Base-0.3.69-261108232621-macOS.zip" length="12547630" type="application/octet-stream" sparkle:edSignature="l2LYZpsE1iJ32L5ipGENDJpyzUeDXuDxn/uu5N2aQ5cYQ7UjEU171WKzx8z4qqOl6mZznCNcOfKtZDgg4NIBDw=="/>
+        </item>
+        <item>
             <title>0.3.68</title>
             <pubDate>Sun, 08 Nov 2026 22:51:32 -0800</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.68-261108224630</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Recovers Anthropic usage from healthy fleet peers and compacts the expanded 280-point sidebar so every GPU and token status fits.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.36-260904034531/Base-0.3.36-260904034531-macOS.zip" length="11657733" type="application/octet-stream" sparkle:edSignature="wkuUoCkEC46+zFjt5cxsCP4MKfQeuG/xSc5guYuhBChcFiTyXi8wt2rEqkhuxiwW7kqPiefv7bv4dCu4wU3EDQ=="/>
-        </item>
-        <item>
-            <title>0.3.35</title>
-            <pubDate>Fri, 04 Sep 2026 03:01:11 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.35-260904022142</link>
-            <sparkle:version>260904022142</sparkle:version>
-            <sparkle:shortVersionString>0.3.35</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Stabilizes OMP working-state italics across redraws, fixes macOS ownership-graph arrows, assigns all GPC chats to HATT, and dismisses the iPhone/iPad keyboard before opening the graph.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.35-260904022142/Base-0.3.35-260904022142-macOS.zip" length="11654318" type="application/octet-stream" sparkle:edSignature="OLLSlzlIxD8dT8KZa1+LAOGxKIuryuvuyVmqt5b5e3OxkNOLPGtVfHt9T+A/rMD5E97Y0DcUYyIBav2WaZguDQ=="/>
         </item>
     </channel>
 </rss>
