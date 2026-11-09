@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.71</title>
+            <pubDate>Mon, 09 Nov 2026 01:55:07 -0800</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.71-261109015507</link>
+            <sparkle:version>261109015507</sparkle:version>
+            <sparkle:shortVersionString>0.3.71</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Replaces verbose submitted/awaiting-confirmation labels with WhatsApp-style delivery indicators at the bottom-right of outgoing messages: a clock while sending, one check after host submission, and two accent-colored checks after agent confirmation. Confirmed history keeps the double checks. Hover/accessibility labels expose status, and clicking an unresolved check only refreshes receipts. Failure details and safe retry controls remain available. Existing receipt authority, replay protections, password-free policy, and session-kill fixes are unchanged. Sparkle installs Base.app only; providers, daemon, runners, windows, Spaces, and drafts are preserved. iOS feed unchanged.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.71-261109015507/Base-0.3.71-261109015507-macOS.zip" length="12589678" type="application/octet-stream" sparkle:edSignature="bzRE68ZPWcx4fSPjGvHnVIeMjrAmL9CT1hwgU2mu3rECt/DE1GiV03tZxCK729UN33lSMSud9chwvssvpKyBAA=="/>
+        </item>
+        <item>
             <title>0.3.70</title>
             <pubDate>Mon, 09 Nov 2026 00:18:45 -0800</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.70-261109000207</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Restores graph state and ancestry, queued-message italics, Command-G graph toggling and highlight, programmable Tab insertion, and complete GPU power disclosure.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.38-260904052459/Base-0.3.38-260904052459-macOS.zip" length="11681582" type="application/octet-stream" sparkle:edSignature="qow08QdvKKK5t+w5/8+/fH5VKqyAJiJ2uz7DVnJhJB5nh6OAACilxXmxsXvJm58NcByWO/9c6Kg3h+z6l40VAg=="/>
-        </item>
-        <item>
-            <title>0.3.37</title>
-            <pubDate>Fri, 04 Sep 2026 04:36:48 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.37-260904041536</link>
-            <sparkle:version>260904041536</sparkle:version>
-            <sparkle:shortVersionString>0.3.37</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Keeps hidden owned sessions and their edges visible in the ownership graph while ordinary session navigation stays filtered.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.37-260904041536/Base-0.3.37-260904041536-macOS.zip" length="11656135" type="application/octet-stream" sparkle:edSignature="LzSs2tKjVGckeu9Gj+lCCD6nOw0/YsONBHAvuZyP3/szYJg2HXljM/Awp1zKCp+xaC7zfALpQ/7uayR/OzBEAg=="/>
         </item>
     </channel>
 </rss>
