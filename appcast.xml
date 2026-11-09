@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.70</title>
+            <pubDate>Mon, 09 Nov 2026 00:18:45 -0800</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.70-261109000207</link>
+            <sparkle:version>261109000207</sparkle:version>
+            <sparkle:shortVersionString>0.3.70</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Fixes session termination when a stale native chat remains visible after its runtime disappears. Native Kill checks the exact host and conversation, uses the native stop route, and reconciles failed stops before clearing a row; a missing runner alone never counts as successful termination. Already-gone legacy targets are handled idempotently after authoritative enumeration. History, drafts, neighboring sessions, network gates, and agent permissions are preserved. Includes the password-free local authorization and compact-sidebar corrections. Sparkle installs Base.app only; runtime binaries are separate assets.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.70-261109000207/Base-0.3.70-261109000207-macOS.zip" length="12580411" type="application/octet-stream" sparkle:edSignature="VGpe6LDUSyb9Jzxo7U7Qla8eGXFgZtg1saJIL31lRiMPN7UsJBY1ibdsUNVJPJllfSpLNBnMH1726F5dcVFDDA=="/>
+        </item>
+        <item>
             <title>0.3.69</title>
             <pubDate>Sun, 08 Nov 2026 23:32:36 -0800</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.69-261108232621</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Keeps hidden owned sessions and their edges visible in the ownership graph while ordinary session navigation stays filtered.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.37-260904041536/Base-0.3.37-260904041536-macOS.zip" length="11656135" type="application/octet-stream" sparkle:edSignature="LzSs2tKjVGckeu9Gj+lCCD6nOw0/YsONBHAvuZyP3/szYJg2HXljM/Awp1zKCp+xaC7zfALpQ/7uayR/OzBEAg=="/>
-        </item>
-        <item>
-            <title>0.3.36</title>
-            <pubDate>Fri, 04 Sep 2026 04:07:48 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.36-260904034531</link>
-            <sparkle:version>260904034531</sparkle:version>
-            <sparkle:shortVersionString>0.3.36</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Recovers Anthropic usage from healthy fleet peers and compacts the expanded 280-point sidebar so every GPU and token status fits.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.36-260904034531/Base-0.3.36-260904034531-macOS.zip" length="11657733" type="application/octet-stream" sparkle:edSignature="wkuUoCkEC46+zFjt5cxsCP4MKfQeuG/xSc5guYuhBChcFiTyXi8wt2rEqkhuxiwW7kqPiefv7bv4dCu4wU3EDQ=="/>
         </item>
     </channel>
 </rss>
