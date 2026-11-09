@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.72</title>
+            <pubDate>Mon, 09 Nov 2026 04:10:54 -0800</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.72-261109035945</link>
+            <sparkle:version>261109035945</sparkle:version>
+            <sparkle:shortVersionString>0.3.72</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Adds a minimal two-row OMP model/thinking picker with exactly astra, latest sol, opus, and fable. Shift-Tab opens it; arrows select, Return applies, and Escape cancels without submitting a message or changing the draft. Available thinking levels come from the live host. Also adds base model and readable multiline CLI diagnostics. The picker requires an updated host daemon and the Base OMP extension, published as separate assets. Already-running OMP 18.1.16 processes cannot hot-load the extension and need a deliberate safe start/resume. Sparkle installs Base.app only; no provider or daemon is restarted by this update. iOS feed unchanged.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.72-261109035945/Base-0.3.72-261109035945-macOS.zip" length="12704691" type="application/octet-stream" sparkle:edSignature="X7yURQ9/B24eLNliHQhOFkuAtxYlwRVhEo89+jxc9dBeH0wTQLTRlaiLTk6pgcAICrtHOOh7saZAZHRb1WdbAw=="/>
+        </item>
+        <item>
             <title>0.3.71</title>
             <pubDate>Mon, 09 Nov 2026 01:55:07 -0800</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.71-261109015507</link>
