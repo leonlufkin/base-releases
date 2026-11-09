@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.67</title>
+            <pubDate>Sun, 08 Nov 2026 17:14:36 -0800</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.67-261108170828</link>
+            <sparkle:version>261108170828</sparkle:version>
+            <sparkle:shortVersionString>0.3.67</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Removes the unrequested Chats text from the compact sidebar. The icon-only history button keeps saved-chat search and history access unchanged. This update installs only the macOS app through the existing built-in updater; daemon, CLI, native runners, and the iOS feed are unchanged.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.67-261108170828/Base-0.3.67-261108170828-macOS.zip" length="12547509" type="application/octet-stream" sparkle:edSignature="vh8oyRncgs+QnUy9kMt7AqcMWY31TOSoHiPXri779a6Tr1kR8fqqY61j24tvVfP/5HFx1Uecz80w9DAY9LcAAA=="/>
+        </item>
+        <item>
             <title>0.3.66</title>
             <pubDate>Sat, 07 Nov 2026 17:32:15 -0800</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.66-261107152800</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Make iPad connection recovery independent of Tailscale path callbacks: retry failed routes on foreground activation, use fresh health and SSE sessions, and cap visible retry backoff at eight seconds.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.34-260904000149/Base-0.3.34-260904000149-macOS.zip" length="11646920" type="application/octet-stream" sparkle:edSignature="joLdoUVGurIPKRnZWanROa6k33CmIkZSCocLyal6jwEd0kPLDcvfVrIudAozaoarq3fTiJmEQ2WBU+m1wX/JAA=="/>
-        </item>
-        <item>
-            <title>0.3.33</title>
-            <pubDate>Thu, 03 Sep 2026 22:25:05 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.33-260903220625</link>
-            <sparkle:version>260903220625</sparkle:version>
-            <sparkle:shortVersionString>0.3.33</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Prevent stale /btw overlays from reappearing after daemon restarts. Add base create with automatic ownership, automatic sidebar hiding, rollback safety, and owner data in list output.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.33-260903220625/Base-0.3.33-260903220625-macOS.zip" length="11647007" type="application/octet-stream" sparkle:edSignature="Q7/4jIifsZaW81FeRS69drdZg5a60ufPqpXK90tWr9OUSjll+Bs7GJLYJWu8HXy0vtR42HtspTvF9p1GoGs/BQ=="/>
         </item>
     </channel>
 </rss>
