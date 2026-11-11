@@ -2,6 +2,19 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.74</title>
+            <pubDate>Tue, 10 Nov 2026 20:38:30 -0800</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.74-261111041800</link>
+            <sparkle:version>261111041800</sparkle:version>
+            <sparkle:shortVersionString>0.3.74</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Base 0.3.74 app update for macOS and iOS. Historical pre-input refusals retain their original evidence without blocking a genuinely new explicit send after exact separate-delivery confirmation. Uncertain requests still prevent duplicate submission, and acknowledgement IDs are matched byte-for-byte. Drafts, histories and receipt identities are preserved. This app/mobile release is independent of the already published 0.3.74 runtime and does not restart or replace providers. New durable-lifetime and pinned-runner recovery work is not included or claimed activated. Automatic update checks are enabled; automatic downloads and installs remain disabled.
+Mobile artifact publication continues independently.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.74-261111041800/Base-0.3.74-261111041800-macOS.zip" length="12864438" type="application/octet-stream" sparkle:edSignature="0+/3f7hYlwAk3bnBJAkT4JUgQLBHdUhAmH8QhtilQICr3qGGQTm7UXHyT57kt9+7lq772I4yA2HIXcznrb/5Dw=="/>
+        </item>
+        <item>
             <title>0.3.72</title>
             <pubDate>Mon, 09 Nov 2026 04:10:54 -0800</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.72-261109035945</link>
@@ -108,30 +121,6 @@
             <description sparkle:format="plain-text"><![CDATA[Ownership graphs now show same-parent siblings alongside the selected chat and each visible ancestor level, including hidden and offline sessions across hosts. Only the selected chat's descendant subtree expands. On macOS, opening the graph or changing focus centers the selected card, while fleet refreshes preserve manual panning. Hidden-session navigation remains transient and window-local.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.40-260905004240/Base-0.3.40-260905004240-macOS.zip" length="11691574" type="application/octet-stream" sparkle:edSignature="NflITZfNfo+5jKFElQz9fO0wU1sOsqy8G9Iui6QELfopZOWdU0lVEJoyn9ik8cDrI+aUIo4mVR1K+MXNlr97Bw=="/>
-        </item>
-        <item>
-            <title>0.3.39</title>
-            <pubDate>Fri, 04 Sep 2026 21:47:57 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.39-260904211859</link>
-            <sparkle:version>260904211859</sparkle:version>
-            <sparkle:shortVersionString>0.3.39</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Add the opt-in Fn/Globe dictation control, keep graph-opened hidden chats transient in the sidebar, and recognize Astra OMP sessions.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.39-260904211859/Base-0.3.39-260904211859-macOS.zip" length="11687356" type="application/octet-stream" sparkle:edSignature="uKaSMRUAoPHkMgen3KVidcCV0u84dJAzCkzJFehA4QSdswCD7aT7Z7oIjoZg3DF3OzFc5zN4g0lmAIDIr7VgDQ=="/>
-        </item>
-        <item>
-            <title>0.3.38</title>
-            <pubDate>Fri, 04 Sep 2026 05:49:05 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.38-260904052459</link>
-            <sparkle:version>260904052459</sparkle:version>
-            <sparkle:shortVersionString>0.3.38</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Restores graph state and ancestry, queued-message italics, Command-G graph toggling and highlight, programmable Tab insertion, and complete GPU power disclosure.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.38-260904052459/Base-0.3.38-260904052459-macOS.zip" length="11681582" type="application/octet-stream" sparkle:edSignature="qow08QdvKKK5t+w5/8+/fH5VKqyAJiJ2uz7DVnJhJB5nh6OAACilxXmxsXvJm58NcByWO/9c6Kg3h+z6l40VAg=="/>
         </item>
     </channel>
 </rss>
