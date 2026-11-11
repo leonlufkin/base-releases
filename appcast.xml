@@ -2,6 +2,22 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.3.75</title>
+            <pubDate>Tue, 10 Nov 2026 21:28:55 -0800</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.75-261111052042</link>
+            <sparkle:version>261111052042</sparkle:version>
+            <sparkle:shortVersionString>0.3.75</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Base 0.3.75 for macOS fixes fleet startup after a restored chat window becomes visible without becoming key. Window registration and native window updates now recompute the existing visibility policy; a non-key visible window resumes health/SSE loading, and closing the last chat still pauses it. No window geometry transformation, provider restart, or terminal attachment is performed by this fix.
+
+Verified with three real AppKit window regressions and an isolated production-Store smoke against a loopback-only health/SSE fixture. The update helper pumps the native run loop and checks exact PID/UID/birth and installation path; it never force-quits the app.
+
+This package contains only the macOS application and app-owned update helper. CLI 0.3.75 is separately published. based activation remains separately coordinated; base-runner and the incomplete native keeper rewrite are not included. iOS remains on the already verified 0.3.74 mobile release; its feed and IPA are unchanged.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.75-261111052042/Base-0.3.75-261111052042-macOS.zip" length="12867365" type="application/octet-stream" sparkle:edSignature="XW2ZIysfB1nRIJq9cPAAbrFZ9/A7jEG1qFppE7fmXfLE9DSGi0OE7mUK50YJ+8dMQThSxIUz/hFTYswlz8KQDQ=="/>
+        </item>
+        <item>
             <title>0.3.74</title>
             <pubDate>Tue, 10 Nov 2026 20:38:30 -0800</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.74-261111041800</link>
@@ -109,18 +125,6 @@ Mobile artifact publication continues independently.
             <description sparkle:format="plain-text"><![CDATA[Preserves pending input and uncertain receipts without replay. Pending messages remain italic until context acknowledgement, with delivery details available only on demand. Includes cross-client submission fixes, faster OMP journal receipt scans, and restored iOS private-tailnet routing while preserving native authorization and exact receipt validation.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.56-260913234436/Base-0.3.56-260913234436-macOS.zip" length="12029380" type="application/octet-stream" sparkle:edSignature="tqFRKo4qI6zZjkJYWYMaelxdCNAyTlMgQKgfFlhEaBQAxuZLtadRn9lU7BVuel9+Y+SHKMxCnHJCF35oqPF6Ag=="/>
-        </item>
-        <item>
-            <title>0.3.40</title>
-            <pubDate>Sat, 05 Sep 2026 01:04:58 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.40-260905004240</link>
-            <sparkle:version>260905004240</sparkle:version>
-            <sparkle:shortVersionString>0.3.40</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Ownership graphs now show same-parent siblings alongside the selected chat and each visible ancestor level, including hidden and offline sessions across hosts. Only the selected chat's descendant subtree expands. On macOS, opening the graph or changing focus centers the selected card, while fleet refreshes preserve manual panning. Hidden-session navigation remains transient and window-local.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.40-260905004240/Base-0.3.40-260905004240-macOS.zip" length="11691574" type="application/octet-stream" sparkle:edSignature="NflITZfNfo+5jKFElQz9fO0wU1sOsqy8G9Iui6QELfopZOWdU0lVEJoyn9ik8cDrI+aUIo4mVR1K+MXNlr97Bw=="/>
         </item>
     </channel>
 </rss>
