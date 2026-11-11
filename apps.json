@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.3.74",
+          "buildVersion": "261111041800",
+          "date": "2026-11-10",
+          "localizedDescription": "Base 0.3.74 app update for macOS and iOS. Historical pre-input refusals retain their original evidence without blocking a genuinely new explicit send after exact separate-delivery confirmation. Uncertain requests still prevent duplicate submission, and acknowledgement IDs are matched byte-for-byte. Drafts, histories and receipt identities are preserved. This app/mobile release is independent of the already published 0.3.74 runtime and does not restart or replace providers. New durable-lifetime and pinned-runner recovery work is not included or claimed activated. Automatic update checks are enabled; automatic downloads and installs remain disabled.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.74-261111041800/Base-0.3.74-261111041800.ipa",
+          "size": 14193653,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.56",
           "buildVersion": "260913234436",
           "date": "2026-09-13",
@@ -187,15 +196,6 @@
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.16-260901234359/Base-0.3.16-260901234359.ipa",
           "size": 12749692,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.15",
-          "buildVersion": "260901213005",
-          "date": "2026-09-01",
-          "localizedDescription": "Captures completed OMP /btw replies in Base transcripts, restores OpenCode SQLite parsing, and bottom-aligns hidden-chat disclosure controls.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.15-260901213005/Base-0.3.15-260901213005.ipa",
-          "size": 12753276,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -203,7 +203,6 @@
           "com.apple.security.application-groups"
         ],
         "privacy": {
-          "NSLocalNetworkUsageDescription": "Base uses your local network to establish encrypted connections to your private Tailscale devices.",
           "NSMicrophoneUsageDescription": "Base records audio for dictation and transcribes it on your Mac Mini when available or on this device."
         }
       }
