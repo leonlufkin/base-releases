@@ -10,8 +10,9 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description sparkle:format="plain-text"><![CDATA[Base 0.3.74 app update for macOS and iOS. Historical pre-input refusals retain their original evidence without blocking a genuinely new explicit send after exact separate-delivery confirmation. Uncertain requests still prevent duplicate submission, and acknowledgement IDs are matched byte-for-byte. Drafts, histories and receipt identities are preserved. This app/mobile release is independent of the already published 0.3.74 runtime and does not restart or replace providers. New durable-lifetime and pinned-runner recovery work is not included or claimed activated. Automatic update checks are enabled; automatic downloads and installs remain disabled.
+Mobile artifact publication continues independently.
 ]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.74-261111041800/Base-0.3.74-261111041800-macOS.zip" length="12864438" type="application/octet-stream" sparkle:edSignature="55G4iUqIpslhM30CidZ841+AqGxPHbvlYAmdstACdzDPWdO3BxNLaxAnJZskpeCoXSTNkh1lD+y7saw9f4/6CA=="/>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.74-261111041800/Base-0.3.74-261111041800-macOS.zip" length="12864438" type="application/octet-stream" sparkle:edSignature="0+/3f7hYlwAk3bnBJAkT4JUgQLBHdUhAmH8QhtilQICr3qGGQTm7UXHyT57kt9+7lq772I4yA2HIXcznrb/5Dw=="/>
         </item>
         <item>
             <title>0.3.72</title>

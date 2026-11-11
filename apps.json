@@ -22,7 +22,7 @@
           "buildVersion": "261111041800",
           "date": "2026-11-10",
           "localizedDescription": "Base 0.3.74 app update for macOS and iOS. Historical pre-input refusals retain their original evidence without blocking a genuinely new explicit send after exact separate-delivery confirmation. Uncertain requests still prevent duplicate submission, and acknowledgement IDs are matched byte-for-byte. Drafts, histories and receipt identities are preserved. This app/mobile release is independent of the already published 0.3.74 runtime and does not restart or replace providers. New durable-lifetime and pinned-runner recovery work is not included or claimed activated. Automatic update checks are enabled; automatic downloads and installs remain disabled.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.74-261111041800/Base-0.3.74-261111041800.ipa",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.74-261111041800-iOS/Base-0.3.74-261111041800.ipa",
           "size": 14193653,
           "minOSVersion": "18.0"
         },
