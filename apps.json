@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.4.2",
+          "buildVersion": "261122062250",
+          "date": "2026-11-22",
+          "localizedDescription": "Base 0.4.2. Notes: import a Notability note with every stroke as real ink, its shapes, photos, recognized text, page size and ruling (library Import action, or put the .nbn folder into Documents/Notability Import). The note screen is rebuilt after Notability: its own toolbox with pen, pencil, highlighter, eraser, text, select, add, dictate and finger drawing, per-tool colours, thickness and favourites, all pages in one scrolling document, a page manager, and dark paper in dark mode. PDFs under the ink are not imported yet.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.4.2-261122062250/Base-0.4.2-261122062250.ipa",
+          "size": 13904103,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.4.1",
           "buildVersion": "261122025558",
           "date": "2026-11-22",
@@ -186,15 +195,6 @@
           "localizedDescription": "Liquid Glass groups now use adaptive regular platters for readable contrast, while nested controls remain translucent and the primary action uses the system prominent style.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.19-260902190405/Base-0.3.19-260902190405.ipa",
           "size": 12781154,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.18",
-          "buildVersion": "260902171327",
-          "date": "2026-09-02",
-          "localizedDescription": "Liquid Glass controls now use visibly translucent clear native surfaces with a restrained adaptive contrast scrim across iPhone, iPad, and macOS. The Appearance toggle still restores the original flat controls.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.18-260902171327/Base-0.3.18-260902171327.ipa",
-          "size": 12782427,
           "minOSVersion": "18.0"
         }
       ],

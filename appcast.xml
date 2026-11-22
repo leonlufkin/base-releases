@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.4.2</title>
+            <pubDate>Sun, 22 Nov 2026 06:26:52 -0800</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.4.2-261122062250</link>
+            <sparkle:version>261122062250</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Base 0.4.2. Notes: import a Notability note with every stroke as real ink, its shapes, photos, recognized text, page size and ruling (library Import action, or put the .nbn folder into Documents/Notability Import). The note screen is rebuilt after Notability: its own toolbox with pen, pencil, highlighter, eraser, text, select, add, dictate and finger drawing, per-tool colours, thickness and favourites, all pages in one scrolling document, a page manager, and dark paper in dark mode. PDFs under the ink are not imported yet.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.4.2-261122062250/Base-0.4.2-261122062250-macOS.zip" length="13860282" type="application/octet-stream" sparkle:edSignature="0twHE0L8Isnk72fDmTHKGnySctWRr3f+BFzxnnF1Q4Kgvgx90ALkPrRvoGMfe6LiIX7rIFzGh5ACw12mrlj/DA=="/>
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Sun, 22 Nov 2026 03:00:54 -0800</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.4.1-261122025558</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Preserves pending input and uncertain receipts without replay. Pending messages remain italic until context acknowledgement, with delivery details available only on demand. Includes cross-client submission fixes, faster OMP journal receipt scans, and restored iOS private-tailnet routing while preserving native authorization and exact receipt validation.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.56-260913234436/Base-0.3.56-260913234436-macOS.zip" length="12029380" type="application/octet-stream" sparkle:edSignature="tqFRKo4qI6zZjkJYWYMaelxdCNAyTlMgQKgfFlhEaBQAxuZLtadRn9lU7BVuel9+Y+SHKMxCnHJCF35oqPF6Ag=="/>
-        </item>
-        <item>
-            <title>0.3.40</title>
-            <pubDate>Sat, 05 Sep 2026 01:04:58 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.40-260905004240</link>
-            <sparkle:version>260905004240</sparkle:version>
-            <sparkle:shortVersionString>0.3.40</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Ownership graphs now show same-parent siblings alongside the selected chat and each visible ancestor level, including hidden and offline sessions across hosts. Only the selected chat's descendant subtree expands. On macOS, opening the graph or changing focus centers the selected card, while fleet refreshes preserve manual panning. Hidden-session navigation remains transient and window-local.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.40-260905004240/Base-0.3.40-260905004240-macOS.zip" length="11691574" type="application/octet-stream" sparkle:edSignature="NflITZfNfo+5jKFElQz9fO0wU1sOsqy8G9Iui6QELfopZOWdU0lVEJoyn9ik8cDrI+aUIo4mVR1K+MXNlr97Bw=="/>
         </item>
     </channel>
 </rss>
