@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.4.0",
+          "buildVersion": "261122013930",
+          "date": "2026-11-22",
+          "localizedDescription": "Base 0.4.0. Notes: handwritten and typed notes on iPad, synced to a Base daemon and handed to an agent session. Spoken replies: a reply is read aloud when its message was dictated, through Zonos on hosts that have it and with the device voice elsewhere. Backing-store status in Settings. Notes sync, handoff and Zonos need a 0.4 daemon; with an older daemon notes stay on the device.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.4.0-261122013930/Base-0.4.0-261122013930.ipa",
+          "size": 13485242,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.74",
           "buildVersion": "261111041800",
           "date": "2026-11-10",
@@ -186,15 +195,6 @@
           "localizedDescription": "Native Liquid Glass now styles Base's navigation and composer controls on iPhone, iPad, and macOS 26, with an Appearance setting to switch back to the flat controls.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.17-260902042536/Base-0.3.17-260902042536.ipa",
           "size": 12767958,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.16",
-          "buildVersion": "260901234359",
-          "date": "2026-09-01",
-          "localizedDescription": "Markdown tables remain one aligned grid on iPhone, iPad, and Mac; wide tables scroll horizontally instead of splitting into row cards.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.16-260901234359/Base-0.3.16-260901234359.ipa",
-          "size": 12749692,
           "minOSVersion": "18.0"
         }
       ],
