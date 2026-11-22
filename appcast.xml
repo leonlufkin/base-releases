@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.4.1</title>
+            <pubDate>Sun, 22 Nov 2026 03:00:54 -0800</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.4.1-261122025558</link>
+            <sparkle:version>261122025558</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Base 0.4.1. Notes sync and handoff are offered only on hosts running Base 0.4 or later, and the app says so in plain words when no connected host is. Fixes the "Method Not Allowed" shown when a note was handed to an older host.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.4.1-261122025558/Base-0.4.1-261122025558-macOS.zip" length="13690620" type="application/octet-stream" sparkle:edSignature="+CXCH+cNv8OPDpay/H22nRjW15LuCexJntnKtu9aRM4NujgpbJlDtZa8csXVX88CoHzJiM+aE2MEr18BimYXCg=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Sun, 22 Nov 2026 01:44:43 -0800</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.4.0-261122013930</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Ownership graphs now show same-parent siblings alongside the selected chat and each visible ancestor level, including hidden and offline sessions across hosts. Only the selected chat's descendant subtree expands. On macOS, opening the graph or changing focus centers the selected card, while fleet refreshes preserve manual panning. Hidden-session navigation remains transient and window-local.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.40-260905004240/Base-0.3.40-260905004240-macOS.zip" length="11691574" type="application/octet-stream" sparkle:edSignature="NflITZfNfo+5jKFElQz9fO0wU1sOsqy8G9Iui6QELfopZOWdU0lVEJoyn9ik8cDrI+aUIo4mVR1K+MXNlr97Bw=="/>
-        </item>
-        <item>
-            <title>0.3.39</title>
-            <pubDate>Fri, 04 Sep 2026 21:47:57 -0700</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.39-260904211859</link>
-            <sparkle:version>260904211859</sparkle:version>
-            <sparkle:shortVersionString>0.3.39</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Add the opt-in Fn/Globe dictation control, keep graph-opened hidden chats transient in the sidebar, and recognize Astra OMP sessions.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.39-260904211859/Base-0.3.39-260904211859-macOS.zip" length="11687356" type="application/octet-stream" sparkle:edSignature="uKaSMRUAoPHkMgen3KVidcCV0u84dJAzCkzJFehA4QSdswCD7aT7Z7oIjoZg3DF3OzFc5zN4g0lmAIDIr7VgDQ=="/>
         </item>
     </channel>
 </rss>

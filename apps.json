@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.4.1",
+          "buildVersion": "261122025558",
+          "date": "2026-11-22",
+          "localizedDescription": "Base 0.4.1. Notes sync and handoff are offered only on hosts running Base 0.4 or later, and the app says so in plain words when no connected host is. Fixes the \"Method Not Allowed\" shown when a note was handed to an older host.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.4.1-261122025558/Base-0.4.1-261122025558.ipa",
+          "size": 13499230,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.4.0",
           "buildVersion": "261122013930",
           "date": "2026-11-22",
@@ -186,15 +195,6 @@
           "localizedDescription": "Liquid Glass controls now use visibly translucent clear native surfaces with a restrained adaptive contrast scrim across iPhone, iPad, and macOS. The Appearance toggle still restores the original flat controls.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.18-260902171327/Base-0.3.18-260902171327.ipa",
           "size": 12782427,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.17",
-          "buildVersion": "260902042536",
-          "date": "2026-09-02",
-          "localizedDescription": "Native Liquid Glass now styles Base's navigation and composer controls on iPhone, iPad, and macOS 26, with an Appearance setting to switch back to the flat controls.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.17-260902042536/Base-0.3.17-260902042536.ipa",
-          "size": 12767958,
           "minOSVersion": "18.0"
         }
       ],
