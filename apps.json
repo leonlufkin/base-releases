@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.4.3",
+          "buildVersion": "261122174530",
+          "date": "2026-11-22",
+          "localizedDescription": "Base 0.4.3. Fixes a crash that could close the app a few seconds after launch: a live connection to a host that was restarted while it was still opening could abort the app.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.4.3-261122174530/Base-0.4.3-261122174530.ipa",
+          "size": 13904012,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.4.2",
           "buildVersion": "261122062250",
           "date": "2026-11-22",
@@ -186,15 +195,6 @@
           "localizedDescription": "Moves translucency behind Base's content. Foreground text, navigation, selection, dictation, and composer controls remain solid and plain; supported system themes use native thin material only as the pane backdrop. Super Dark and the disabled setting remain opaque.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.20-260902202732/Base-0.3.20-260902202732.ipa",
           "size": 12756829,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.19",
-          "buildVersion": "260902190405",
-          "date": "2026-09-02",
-          "localizedDescription": "Liquid Glass groups now use adaptive regular platters for readable contrast, while nested controls remain translucent and the primary action uses the system prominent style.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.19-260902190405/Base-0.3.19-260902190405.ipa",
-          "size": 12781154,
           "minOSVersion": "18.0"
         }
       ],
