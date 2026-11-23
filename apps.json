@@ -343,6 +343,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "2.0.1",
+          "buildVersion": "2",
+          "date": "2026-11-23",
+          "localizedDescription": "Fixes the Home Screen icon showing only a magnified patch of the moon.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/code-v2.0.1-2/Code-2.0.1.ipa",
+          "size": 45840958,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "2.0.0",
           "buildVersion": "1",
           "date": "2026-11-23",
