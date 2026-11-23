@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.4.4</title>
+            <pubDate>Sun, 22 Nov 2026 18:05:02 -0800</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.4.4-261122175739</link>
+            <sparkle:version>261122175739</sparkle:version>
+            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Base 0.4.4: pinch below page width without snapping back. Hold Apple Pencil Pro squeeze to erase and release to restore your tool; two quick squeezes toggle it persistently. More > Template Settings previews paper, ruling, spacing, colour, size and orientation before Apply, with named My Templates and a per-page option. A resize cannot crop existing ink or pictures. Coloured notes require an updated daemon to sync.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.4.4-261122175739/Base-0.4.4-261122175739-macOS.zip" length="13864925" type="application/octet-stream" sparkle:edSignature="t0iFZRawALDEjSmy1N9h185h5aTlPWWjwbPBke8D3Pssvuku0GtmRH0LGEiKTJXwmv3Ycxq715rhJiMSN7lYAw=="/>
+        </item>
+        <item>
             <title>0.4.3</title>
             <pubDate>Sun, 22 Nov 2026 17:50:47 -0800</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.4.3-261122174530</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Removes the unrequested Chats text from the compact sidebar. The icon-only history button keeps saved-chat search and history access unchanged. This update installs only the macOS app through the existing built-in updater; daemon, CLI, native runners, and the iOS feed are unchanged.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.67-261108170828/Base-0.3.67-261108170828-macOS.zip" length="12547509" type="application/octet-stream" sparkle:edSignature="vh8oyRncgs+QnUy9kMt7AqcMWY31TOSoHiPXri779a6Tr1kR8fqqY61j24tvVfP/5HFx1Uecz80w9DAY9LcAAA=="/>
-        </item>
-        <item>
-            <title>0.3.66</title>
-            <pubDate>Sat, 07 Nov 2026 17:32:15 -0800</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.66-261107152800</link>
-            <sparkle:version>261107152800</sparkle:version>
-            <sparkle:shortVersionString>0.3.66</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Obsidian-backed notes and Markdown task workflows; unread transcript prefetch before opening chats; retained-conversation and stopped-session sidebar fixes. This macOS app release uses Base’s existing Sparkle updater and preserves chat-window restoration. CLI, daemon, and native-runner updates are provided as separate runtime assets; Sparkle installs the app only. The iOS feed is unchanged.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.66-261107152800/Base-0.3.66-261107152800-macOS.zip" length="12545645" type="application/octet-stream" sparkle:edSignature="rXzvScFzKKbLOZ/Sy362Bb7hhuxP3TfFx2StrlgFEAKG7xYbnv8Jrbl3yeRe3rIKBxfmvOQQGwALn1OmtkMgCg=="/>
         </item>
     </channel>
 </rss>

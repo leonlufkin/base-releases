@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.4.4",
+          "buildVersion": "261122175739",
+          "date": "2026-11-22",
+          "localizedDescription": "Base 0.4.4: pinch below page width without snapping back. Hold Apple Pencil Pro squeeze to erase and release to restore your tool; two quick squeezes toggle it persistently. More > Template Settings previews paper, ruling, spacing, colour, size and orientation before Apply, with named My Templates and a per-page option. A resize cannot crop existing ink or pictures. Coloured notes require an updated daemon to sync.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.4.4-261122175739/Base-0.4.4-261122175739.ipa",
+          "size": 13989327,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.4.3",
           "buildVersion": "261122174530",
           "date": "2026-11-22",
@@ -186,15 +195,6 @@
           "localizedDescription": "Keeps translucency behind Base's content while foreground controls remain solid. Long and structurally dense transcript rows now render fully without per-message Show full message controls. Mac Shift-Return inserts exactly one newline; Return still sends. The existing hard payload cap and render fence remain in place.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.21-260902204748/Base-0.3.21-260902204748.ipa",
           "size": 12742320,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.20",
-          "buildVersion": "260902202732",
-          "date": "2026-09-02",
-          "localizedDescription": "Moves translucency behind Base's content. Foreground text, navigation, selection, dictation, and composer controls remain solid and plain; supported system themes use native thin material only as the pane backdrop. Super Dark and the disabled setting remain opaque.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.20-260902202732/Base-0.3.20-260902202732.ipa",
-          "size": 12756829,
           "minOSVersion": "18.0"
         }
       ],
