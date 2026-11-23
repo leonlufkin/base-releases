@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.4.5",
+          "buildVersion": "261123041000",
+          "date": "2026-11-23",
+          "localizedDescription": "Base 0.4.5. Notes fixes: ink written just before leaving the app is saved, fast writing reaches autosave within a second, and Back waits for the save and says when it fails. A page whose ink cannot be loaded is read-only instead of being overwritten, and repeated partial erases are saved. Imported notes keep Notability recognized text; handwriting added in Base is appended. Pencil double-tap works again and the double squeeze is detected more reliably. Template Settings: spacing starts at 12 pt and no longer resizes pages by accident. Long notes stutter less after each stroke and import is about twice as fast. Sync and Hand Off are protected against overwrites, stale deletions and shell targets.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.4.5-261123041000/Base-0.4.5-261123041000.ipa",
+          "size": 14096356,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.4.4",
           "buildVersion": "261122175739",
           "date": "2026-11-22",
@@ -186,15 +195,6 @@
           "localizedDescription": "Integrates the validated cleanup branch: full daemon/API security and lifecycle cleanup, bounded transcript caches, fixed Shift-Return insertion, complete long-message display up to the hard safety cap, and translucency limited to Base's background while foreground controls remain solid.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.22-260902211620/Base-0.3.22-260902211620.ipa",
           "size": 12836733,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.21",
-          "buildVersion": "260902204748",
-          "date": "2026-09-02",
-          "localizedDescription": "Keeps translucency behind Base's content while foreground controls remain solid. Long and structurally dense transcript rows now render fully without per-message Show full message controls. Mac Shift-Return inserts exactly one newline; Return still sends. The existing hard payload cap and render fence remain in place.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.21-260902204748/Base-0.3.21-260902204748.ipa",
-          "size": 12742320,
           "minOSVersion": "18.0"
         }
       ],
