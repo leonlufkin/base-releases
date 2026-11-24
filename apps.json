@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.4.8",
+          "buildVersion": "261123232432",
+          "date": "2026-11-23",
+          "localizedDescription": "Notes: the pen that follows pressure draws its line in its real thickness from the first touch, so nothing changes when the Pencil lifts. The strokes go to the page at the next pause in the writing instead of at every lift, which keeps long notes smooth. Undo and redo are steadier: an undone stroke no longer comes back with the next one drawn.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.4.8-261123232432/Base-0.4.8-261123232432.ipa",
+          "size": 14199438,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.4.6",
           "buildVersion": "261123185650",
           "date": "2026-11-23",
@@ -186,15 +195,6 @@
           "localizedDescription": "Fixes iOS send acknowledgement recovery and repeated rows, isolates /btw from the transcript cursor, and routes mobile dictation through the Mac mini Scribe service.",
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.25-260903012314/Base-0.3.25-260903012314.ipa",
           "size": 12737588,
-          "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.23",
-          "buildVersion": "260902214336",
-          "date": "2026-09-02",
-          "localizedDescription": "Emergency Apple-client rollback to the field-verified 0.3.21 implementation after 0.3.22 regressions. Restores compact mode, GPU and token status, multi-window restart restoration, sharp SwiftMath output, and durable optimistic sent messages while retaining the daemon and deployment cleanup.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.23-260902214336/Base-0.3.23-260902214336.ipa",
-          "size": 12745824,
           "minOSVersion": "18.0"
         }
       ],

@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.4.8</title>
+            <pubDate>Mon, 23 Nov 2026 23:28:50 -0800</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.4.8-261123232432</link>
+            <sparkle:version>261123232432</sparkle:version>
+            <sparkle:shortVersionString>0.4.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Notes: the pen that follows pressure draws its line in its real thickness from the first touch, so nothing changes when the Pencil lifts. The strokes go to the page at the next pause in the writing instead of at every lift, which keeps long notes smooth. Undo and redo are steadier: an undone stroke no longer comes back with the next one drawn.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.4.8-261123232432/Base-0.4.8-261123232432-macOS.zip" length="13971800" type="application/octet-stream" sparkle:edSignature="AfLLlKsgXpzbJ44yxmW15fm5bVxYkZ9PtQB27uANtB441oMiZv7Vn2/Hn5HYu6io3huGwdJE1Mw+khxvGVIHDA=="/>
+        </item>
+        <item>
             <title>0.4.6</title>
             <pubDate>Mon, 23 Nov 2026 19:03:05 -0800</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.4.6-261123185650</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Fixes session termination when a stale native chat remains visible after its runtime disappears. Native Kill checks the exact host and conversation, uses the native stop route, and reconciles failed stops before clearing a row; a missing runner alone never counts as successful termination. Already-gone legacy targets are handled idempotently after authoritative enumeration. History, drafts, neighboring sessions, network gates, and agent permissions are preserved. Includes the password-free local authorization and compact-sidebar corrections. Sparkle installs Base.app only; runtime binaries are separate assets.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.70-261109000207/Base-0.3.70-261109000207-macOS.zip" length="12580411" type="application/octet-stream" sparkle:edSignature="VGpe6LDUSyb9Jzxo7U7Qla8eGXFgZtg1saJIL31lRiMPN7UsJBY1ibdsUNVJPJllfSpLNBnMH1726F5dcVFDDA=="/>
-        </item>
-        <item>
-            <title>0.3.69</title>
-            <pubDate>Sun, 08 Nov 2026 23:32:36 -0800</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.69-261108232621</link>
-            <sparkle:version>261108232621</sparkle:version>
-            <sparkle:shortVersionString>0.3.69</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Removes automatic Base credential prompts. The Mac app once configures its existing private local runtime for trusted-network native actions without restarting the daemon or agent sessions. Keychain reads cannot authenticate interactively; CLI commands no longer collect passwords from the terminal. Network/origin checks and scoped-agent permissions remain enforced. Deliberately strict runtime administration retains explicit credential-fd support. Sparkle installs Base.app only; CLI, daemon, and runner binaries are separate assets.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.69-261108232621/Base-0.3.69-261108232621-macOS.zip" length="12547630" type="application/octet-stream" sparkle:edSignature="l2LYZpsE1iJ32L5ipGENDJpyzUeDXuDxn/uu5N2aQ5cYQ7UjEU171WKzx8z4qqOl6mZznCNcOfKtZDgg4NIBDw=="/>
         </item>
     </channel>
 </rss>
