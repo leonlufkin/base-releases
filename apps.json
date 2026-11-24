@@ -19,6 +19,15 @@
       "versions": [
         {
           "version": "2.0.1",
+          "buildVersion": "261124150626",
+          "date": "2026-11-24",
+          "localizedDescription": "The GPU and usage lines above the thread list are drawn as on desktop: one row of GPU chips filled by how many are free, and one row of thin usage meters. Tap a GPU chip for its details, or the usage row to open Usage.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v2.0.1-261124150626/Base-2.0.1-261124150626.ipa",
+          "size": 42589175,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "2.0.1",
           "buildVersion": "261124041805",
           "date": "2026-11-24",
           "localizedDescription": "Base is now one app for handwritten notes, your Markdown vault, and your agent threads. It replaces the earlier Base app in place. After updating, add an environment to pair it with a Base or Code server.",
