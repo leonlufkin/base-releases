@@ -11,12 +11,21 @@
       "name": "Base",
       "bundleIdentifier": "com.leonlufkin.base",
       "developerName": "Leon Lufkin",
-      "subtitle": "Talk to your agents from iPhone and iPad.",
-      "localizedDescription": "Base is the native Riad client for following sessions, dictating prompts, and sending messages to your agents.",
+      "subtitle": "Notes, vault, and agents on iPhone and iPad.",
+      "localizedDescription": "Base puts handwritten notes, your Markdown vault, and your agent threads in one app. Pair it with a Base or Code server to use it.",
       "iconURL": "https://raw.githubusercontent.com/leonlufkin/base-releases/main/Base.png",
       "tintColor": "#355C7D",
       "category": "developer",
       "versions": [
+        {
+          "version": "2.0.1",
+          "buildVersion": "261124041805",
+          "date": "2026-11-24",
+          "localizedDescription": "Base is now one app for handwritten notes, your Markdown vault, and your agent threads. It replaces the earlier Base app in place. After updating, add an environment to pair it with a Base or Code server.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v2.0.1-261124041805/Base-2.0.1-261124041805.ipa",
+          "size": 41232379,
+          "minOSVersion": "18.0"
+        },
         {
           "version": "0.4.8",
           "buildVersion": "261123232432",
@@ -187,24 +196,17 @@
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.26-260903152359/Base-0.3.26-260903152359.ipa",
           "size": 12748690,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.25",
-          "buildVersion": "260903012314",
-          "date": "2026-09-03",
-          "localizedDescription": "Fixes iOS send acknowledgement recovery and repeated rows, isolates /btw from the transcript cursor, and routes mobile dictation through the Mac mini Scribe service.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.25-260903012314/Base-0.3.25-260903012314.ipa",
-          "size": 12737588,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
-        "entitlements": [
-          "com.apple.security.application-groups"
-        ],
+        "entitlements": [],
         "privacy": {
-          "NSCameraUsageDescription": "Base adds a photo you take to the note.",
-          "NSMicrophoneUsageDescription": "Base records audio for dictation and transcribes it on your Mac Mini when available or on this device."
+          "NSCameraUsageDescription": "Allow Base to use your camera to scan pairing QR codes and add photos to your notes.",
+          "NSFaceIDUsageDescription": "Allow Base to access your Face ID biometric data.",
+          "NSLocalNetworkUsageDescription": "Allow Base to connect to Base servers on your local network or tailnet.",
+          "NSMicrophoneUsageDescription": "Allow Base to use your microphone for voice input.",
+          "NSPhotoLibraryAddUsageDescription": "Allow Base to save images to your photo library.",
+          "NSPhotoLibraryUsageDescription": "Allow Base to add pictures from your photo library to your notes."
         }
       }
     },
