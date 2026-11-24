@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "0.4.6",
+          "buildVersion": "261123185650",
+          "date": "2026-11-23",
+          "localizedDescription": "Notes: the toolbox works like Notability's (style tray with quick colours, the 64-slot Colors popover, thickness presets, Partial/Whole eraser, Navigate), and the pen's line now follows Pencil pressure the way Notability's does. Notes also syncs every 20 seconds while open.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.4.6-261123185650/Base-0.4.6-261123185650.ipa",
+          "size": 14174065,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.4.5",
           "buildVersion": "261123041000",
           "date": "2026-11-23",
@@ -187,15 +196,6 @@
           "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.23-260902214336/Base-0.3.23-260902214336.ipa",
           "size": 12745824,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.22",
-          "buildVersion": "260902211620",
-          "date": "2026-09-02",
-          "localizedDescription": "Integrates the validated cleanup branch: full daemon/API security and lifecycle cleanup, bounded transcript caches, fixed Shift-Return insertion, complete long-message display up to the hard safety cap, and translucency limited to Base's background while foreground controls remain solid.",
-          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v0.3.22-260902211620/Base-0.3.22-260902211620.ipa",
-          "size": 12836733,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -203,6 +203,7 @@
           "com.apple.security.application-groups"
         ],
         "privacy": {
+          "NSCameraUsageDescription": "Base adds a photo you take to the note.",
           "NSMicrophoneUsageDescription": "Base records audio for dictation and transcribes it on your Mac Mini when available or on this device."
         }
       }

@@ -2,6 +2,18 @@
     <channel>
         <title>Base</title>
         <item>
+            <title>0.4.6</title>
+            <pubDate>Mon, 23 Nov 2026 19:03:05 -0800</pubDate>
+            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.4.6-261123185650</link>
+            <sparkle:version>261123185650</sparkle:version>
+            <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Notes: the toolbox works like Notability's (style tray with quick colours, the 64-slot Colors popover, thickness presets, Partial/Whole eraser, Navigate), and the pen's line now follows Pencil pressure the way Notability's does. Notes also syncs every 20 seconds while open.
+]]></description>
+            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.4.6-261123185650/Base-0.4.6-261123185650-macOS.zip" length="13971866" type="application/octet-stream" sparkle:edSignature="efXvQ+Ib7vPE5tvJoZdyMTG3C3qQ0b0029juTRfYTTx6KRe1HEGhk2MW7sJJ83uiV0P6mSQE2e2vN/TsiVN2BQ=="/>
+        </item>
+        <item>
             <title>0.4.5</title>
             <pubDate>Mon, 23 Nov 2026 04:17:40 -0800</pubDate>
             <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.4.5-261123041000</link>
@@ -108,18 +120,6 @@
             <description sparkle:format="plain-text"><![CDATA[Removes automatic Base credential prompts. The Mac app once configures its existing private local runtime for trusted-network native actions without restarting the daemon or agent sessions. Keychain reads cannot authenticate interactively; CLI commands no longer collect passwords from the terminal. Network/origin checks and scoped-agent permissions remain enforced. Deliberately strict runtime administration retains explicit credential-fd support. Sparkle installs Base.app only; CLI, daemon, and runner binaries are separate assets.
 ]]></description>
             <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.69-261108232621/Base-0.3.69-261108232621-macOS.zip" length="12547630" type="application/octet-stream" sparkle:edSignature="l2LYZpsE1iJ32L5ipGENDJpyzUeDXuDxn/uu5N2aQ5cYQ7UjEU171WKzx8z4qqOl6mZznCNcOfKtZDgg4NIBDw=="/>
-        </item>
-        <item>
-            <title>0.3.68</title>
-            <pubDate>Sun, 08 Nov 2026 22:51:32 -0800</pubDate>
-            <link>https://github.com/leonlufkin/base-releases/releases/tag/v0.3.68-261108224630</link>
-            <sparkle:version>261108224630</sparkle:version>
-            <sparkle:shortVersionString>0.3.68</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Removes the history control entirely from the compact sidebar, with no replacement icon, label, or reserved space. This update installs only Base.app; daemon, CLI, native runners, and the iOS feed are unchanged.
-]]></description>
-            <enclosure url="https://github.com/leonlufkin/base-releases/releases/download/v0.3.68-261108224630/Base-0.3.68-261108224630-macOS.zip" length="12539361" type="application/octet-stream" sparkle:edSignature="Je/kmq7lNal7cXCaOy8lP2RNAxnTXYZS5lo5Ar7O/sHolcTSBcFy1hnoAbD5v9FncygTLwZdo7g4bVKYBGQ6Aw=="/>
         </item>
     </channel>
 </rss>
