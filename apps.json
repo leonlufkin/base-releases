@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "2.0.2",
+          "buildVersion": "261126103747",
+          "date": "2026-11-26",
+          "localizedDescription": "Stable Base 2.0.2 for iPhone and iPad. Update your existing Base installation in place; no need to uninstall or pair again.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v2.0.2-261126103747/Base-2.0.2-261126103747.ipa",
+          "size": 42619408,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "2.0.1",
           "buildVersion": "261125221843",
           "date": "2026-11-25",
