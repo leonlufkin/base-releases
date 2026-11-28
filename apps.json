@@ -18,6 +18,15 @@
       "category": "developer",
       "versions": [
         {
+          "version": "2.1.0",
+          "buildVersion": "261128031440",
+          "date": "2026-11-28",
+          "localizedDescription": "Base 2.1.0 for iPhone and iPad. Adds Antigravity usage-limit meters to the Base status strip, Usage Limits, and composer. Update your existing Base installation in place; no need to uninstall or pair again.",
+          "downloadURL": "https://github.com/leonlufkin/base-releases/releases/download/v2.1.0-261128031440/Base-2.1.0-261128031440.ipa",
+          "size": 42631426,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "2.0.2",
           "buildVersion": "261126103747",
           "date": "2026-11-26",
